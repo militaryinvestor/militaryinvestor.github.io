@@ -3,7 +3,7 @@ layout: post
 title:  "New Beginnings"
 author: Ken
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/2021-12-11-New-Beginnings.jpg
 featured: true
 hidden: true
 ---
