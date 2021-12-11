@@ -14,6 +14,13 @@ permalink: /:title/
 
 # Authors
 authors:
+  ken:
+    name: Ken
+    display_name: Ken
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: ken@militaryinvestor.org
+    web: https://militaryinvestor.org
+    description: "Author of the Military Investor Blog and avid investing nerd."
   sal:
     name: Sal
     display_name: Sal
