@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'militaryinvestor'
 include: ["_pages"]
 permalink: /:title/
 
