@@ -1,7 +1,7 @@
 # Site
 name: "MILITARY INVESTOR (Under Construction)"
 title: "Investing Education Specifically for Military Members and Veterans"
-#description: ""
+description: "Investing Education for Military and Veterans"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /
