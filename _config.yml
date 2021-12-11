@@ -1,5 +1,5 @@
 # Site
-name: "Military Investor"
+name: "Military Investor - UNDER CONSTRUCTION"
 title: "Investing Education Specifically for Military Members and Veterans"
 description: "Investing Education specifically for military members and veterans"
 logo: 'assets/images/logo.png'
@@ -8,7 +8,7 @@ baseurl: /
 #baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -18,7 +18,7 @@ authors:
     name: Ken
     display_name: Ken
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: ken@militaryinvestor.org
+    #email: ken@militaryinvestor.org
     web: https://militaryinvestor.org
     description: "Author of the Military Investor Blog and avid investing nerd."
   sal:
