@@ -4,8 +4,8 @@ title:  "How Debt is Holding You Back, and How to Fix It"
 author: ken
 categories: [ Debt ]
 image: assets/images/2021-12-11-New-Beginnings.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 # How Debt is Holding You Back, and How to Fix It
