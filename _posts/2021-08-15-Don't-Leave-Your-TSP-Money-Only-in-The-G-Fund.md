@@ -4,8 +4,8 @@ title:  "Don't Leave Your TSP Money (Only) in the G Fund!"
 author: ken
 categories: [ Investing, Thrift Savings Plan ]
 image: assets/images/2021-12-11-New-Beginnings.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 # How to Start Investing in the TSP (Part 2): Change your TSP Investments (Don't Leave Everything in the G Fund!)
