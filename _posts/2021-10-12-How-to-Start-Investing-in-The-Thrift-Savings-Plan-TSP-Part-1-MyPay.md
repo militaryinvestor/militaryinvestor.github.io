@@ -28,5 +28,5 @@ Congratulations!  Money will start coming out of your next check. More important
 
 ------------------
 
-After this, you'll need to pick how your money will be invested in the TSP.  To do this, ]please continue reading Part 2 of this series to learn how to change how your money is invested in the TSP](2021-12-12-How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations.md).
+After this, you'll need to pick how your money will be invested in the TSP.  To do this, [please continue reading Part 2 of this series to learn how to change how your money is invested in the TSP](2021-12-12-How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations.md).
 
