@@ -4,8 +4,8 @@ title:  "Tip: Follow the Market (with Index Funds) vs. Trying to Beat the Market
 author: ken
 categories: [ Investing ]
 image: assets/images/2021-12-11-New-Beginnings.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 > A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually out-perform most investment professionals. 
