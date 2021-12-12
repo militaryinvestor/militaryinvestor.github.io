@@ -3,7 +3,7 @@ layout: post
 title:  "How to Start Investing in the Thrift Savings Plan (TSP) Part One: Setup MyPay"
 author: ken
 categories: [ Investing, Simple, Thrift Savings Plan ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-10-11-TSP-1 - MyPay.png
 featured: false
 hidden: false
 ---
