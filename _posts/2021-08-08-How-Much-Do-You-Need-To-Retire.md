@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-## How much do you need to retire?
-
 Let’s face facts.  If you are in the military, you probably don’t have enough saved for retirement.  If you’re enlisted, that’s doubly true.  With rare exceptions, many enlisted members have only minimal savings, and are definitely not investing enough to build a comfortable retirement.  I get it… you have bills to pay, and we have a good retirement pension ahead of us.  Isn’t that enough to retire on?
 
 No.  No it really isn’t.
