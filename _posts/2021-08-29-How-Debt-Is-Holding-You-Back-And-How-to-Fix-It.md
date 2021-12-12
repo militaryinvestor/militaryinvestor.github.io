@@ -3,12 +3,10 @@ layout: post
 title:  "How Debt is Holding You Back, and How to Fix It"
 author: ken
 categories: [ Debt ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-08-29-Debt.png
 featured: false
 hidden: false
 ---
-
-# How Debt is Holding You Back, and How to Fix It
 
 I grew up poor-ish.  Though we sometimes had money, the majority of the time we didn’t.  We lived on what we had, but it wasn’t usually much.  In this environment, I didn’t learn much about money… and definitely not about investing.  Investing was something that rich people did, not us.  I had learned almost nothing about money growing up, so that when I finally had a little in the military, I quickly racked up $12,000 on an eBay credit card and bought a $200,000 house with a loan for 104% of the principal… just before the 2008 real estate market crash.  These massive mistakes took years to overcome, and could’ve been easily avoided if I understood what I know now.
 
