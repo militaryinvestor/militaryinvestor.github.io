@@ -4,8 +4,8 @@ title:  "Book Review – “Work Optional: Retire Early the Non-Penny-Pinching W
 author: ken
 categories: [ Books ]
 image: assets/images/2021-12-11-New-Beginnings.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 # Book Review – “Work Optional: Retire Early the Non-Penny-Pinching Way” by Tanja Hester
@@ -43,11 +43,12 @@ Once you know how you want to live in retirement, deciding how much you need to 
 
 #### How to calculate your magic number:
 
-Find your annual spending, and  then subtract any future pensions (i.e. military retirement)
-Multiply that number by 30 
-Add additional known expenses (like kids’ college costs, etc.)
-Add +10% contingency
-The number you end up with is how much you’ll need to have invested to fully retire.
+1. Find your annual spending, and  then subtract any future pensions (i.e. military retirement)
+2. Multiply that number by 30 
+3. Add additional known expenses (like kids’ college costs, etc.)
+4. Add +10% contingency
+5. The number you end up with is how much you’ll need to have invested to fully retire.
+
 Using 30x allows for a more conservative approach to spending (3.3% vs 4% withdrawals) and also leaves room for increasing costs such as health care.
 
 #### Limiting Spending:
@@ -60,7 +61,7 @@ This also works for buying things in your daily life, including small expenses. 
 
 To reach this goal, she suggests **investing as early as possible** to create “magic money” (i.e. **money from _passive income_**).  To build wealth you don’t have to beat the market, you just have to match the market.  And, investing early is always better than trying to time the market (which no one can do consistently).  She recommends to ignore the short term fluctuations in the market, but instead continue to invest consistently. 
 
-To make it easy, she recommends using systems to pay your investments first.  She uses *automatic payments into her investment accounts each month* (“to hide money from herself”), which allows her to continue investing without much thought.  By continuing to invest this way, it prevents her from forgetting to invest each month and makes it easier to live without the money she is investing.
+To make it easy, she recommends using systems to pay your investments first.  She uses **automatic payments into her investment accounts each month** (“to hide money from herself”), which allows her to continue investing without much thought.  By continuing to invest this way, it prevents her from forgetting to invest each month and makes it easier to live without the money she is investing.
 
 ——————
 
