@@ -2,7 +2,7 @@
 layout: post
 title:  "New Beginnings"
 author: ken
-categories: [ Updates ]
+categories: [ Site News ]
 image: assets/images/2021-12-11-New-Beginnings.jpg
 featured: true
 hidden: true
