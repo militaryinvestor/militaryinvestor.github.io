@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Leave Your TSP Money (Only) in the G Fund!"
 author: ken
 categories: [ Investing, Thrift Savings Plan ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-08-15-Don't-Leave-Your-TSP-Money-Only-in-The-G-Fund.png
 featured: false
 hidden: false
 ---
