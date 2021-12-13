@@ -15,9 +15,8 @@ hidden: false
 Let’s start by saying, if you are in the military and aren’t putting some money into your TSP… you are wrong.
 
 Ok, that might be a bit strong, but the Thrift Savings Plan (TSP) is an easy, low-fee way of investing money while in the military or government service.  And, if you joined after 1 Jan 2018 (or opted into the Blended Retirement System), the government will match up to a total 5% of your basic pay.  **This is a guaranteed, immediate 100% return on your money.**  If you are eligible for matching, you are literally turning down free money if you aren’t investing enough to max this out.  
-If you go into MyPay ([https://mypay.dfas.mil](https://mypay.dfas.mil)), you can allocate a percentage of your base pay to be invested every month.  
 
-**ADD LINK TO TSP POST*
+If you go into MyPay, you can allocate a percentage of your base pay to be invested every month.  For step-by-step instructions, please read this post entitled, "[How to Start Investing in the Thrift Savings Plan (TSP) Part One: Setup MyPay](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-1-MyPay/).
 
 Have you done that yet?  I’ll wait.
 
