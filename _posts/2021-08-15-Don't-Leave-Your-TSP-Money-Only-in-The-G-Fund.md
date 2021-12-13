@@ -39,5 +39,5 @@ But, this is only possible if you are making at least a 7% return over the long 
 
 ----
 
-If you aren't sure how your money in the TSP is invested, follow this step-by-step guide to fix that entitled "[How to Start Investing in the Thrift Savings Plan (TSP) Part Two: Change Your TSP Allocations](2021-12-12-How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations.md).
+If you aren't sure how your money in the TSP is invested, follow this step-by-step guide to fix that entitled "[How to Start Investing in the Thrift Savings Plan (TSP) Part Two: Change Your TSP Allocations](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations/).
 
