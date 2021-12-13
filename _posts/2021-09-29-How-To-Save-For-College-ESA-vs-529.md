@@ -3,12 +3,11 @@ layout: post
 title:  "How to Save for College – ESA vs. 529 Plans"
 author: ken
 categories: [ Investing, College ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-09-29-ESA-vs-529.jpg
 featured: false
 hidden: false
 ---
-
-## How to Save for College – ESA vs. 529 Plans
+_[Image Credit](https://www.gotcredit.com/)_
 
 I am on a crusade to optimize my family’s finances.  For years, I wasn’t very attentive to my finances, or how my few investments were performing.  I took advice from co-workers and bought what other people mentioned to me.  I put some money into TSP each month, but didn’t think too hard about what funds I had.  And later, as we had kids, we started investing in USAA’s 529 college funds, because I had an account with them.  
 
