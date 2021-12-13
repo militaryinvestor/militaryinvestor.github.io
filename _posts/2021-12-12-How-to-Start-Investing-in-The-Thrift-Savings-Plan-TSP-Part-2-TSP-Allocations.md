@@ -8,9 +8,7 @@ featured: false
 hidden: false
 ---
 
-# How to Start Investing in the Thrift Savings Plan (TSP) Part Two: A Step By Step Guide to Change Your TSP Allocations
-
-If you followed the steps in Part 1, you've already setup your MyPay to transfer some of your paychecks in your TSP! **ADD LINK TO PART 2**
+If you followed the steps in Part 1, you've already setup your MyPay to transfer some of your paychecks in your TSP! [If you haven't already completed these steps, you can find them in this post](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-1-MyPay/).
 
 If so, congrats!  You've taken your first step towards investing in the TSP!  However, this is where most people stop. They just throw some money into Thrift Savings Plan, which is a good start.  **But, until you change your fund allocations in TSP, you are not making as much money as you should be! **  
 
@@ -18,7 +16,7 @@ By default, your money is going into the _G Fund_ in TSP... which isn't going to
 
 ----------
 
-Ok, so let's finish setting up your TSP.  Just follow these steps:
+Ok, so let's finish setting up your TSP.  At this point, you have MyPay setup to transfer money to your TSP every month.  However, you still need to make sure that your money is being invested in the right TSP funds.  Just follow these steps:
 
 ![TSP Login](../assets/images/2021-12-12-TSP-Part2-Allocations/1 - TSP login button.png)
 1. First, you need to go to https://tsp.gov and log in. Start by clicking the “Log In” button shown here.
