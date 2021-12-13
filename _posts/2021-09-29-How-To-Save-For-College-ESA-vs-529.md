@@ -7,7 +7,6 @@ image: assets/images/2021-09-29-ESA-vs-529.jpg
 featured: false
 hidden: false
 ---
-_[Image Credit](https://www.gotcredit.com/)_
 
 I am on a crusade to optimize my family’s finances.  For years, I wasn’t very attentive to my finances, or how my few investments were performing.  I took advice from co-workers and bought what other people mentioned to me.  I put some money into TSP each month, but didn’t think too hard about what funds I had.  And later, as we had kids, we started investing in USAA’s 529 college funds, because I had an account with them.  
 
@@ -128,3 +127,5 @@ In the Bright Start 529, I am investing in the “Index-based Investment” Vang
 Saving for college is a major concern for many military investors, especially those with multiple children.  Start by building a plan, and then set up your own automatic transfers. Decide on your investments, and continue investing on a regular basis. 
 
 If you are able to help curb the pain of college debt for your kids – without sacrificing your own retirement in the process – you can give them an amazing gift: a better start in life.
+
+_[Image Credit](https://www.gotcredit.com/)_
