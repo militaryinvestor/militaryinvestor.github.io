@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review – “Work Optional: Retire Early the Non-Penny-Pinching Way” by Tanja Hester"
 author: ken
 categories: [ Books ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-09-03-Book-Work-Optional.jpg
 featured: false
 hidden: false
 ---
