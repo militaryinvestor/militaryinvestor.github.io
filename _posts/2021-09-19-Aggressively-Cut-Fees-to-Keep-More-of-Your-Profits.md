@@ -3,7 +3,7 @@ layout: post
 title:  "Aggressively Cut Fees to Keep More of Your Profits"
 author: ken
 categories: [ Investing ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-09-19-Aggressively-Cut-Fees.jpg
 featured: false
 hidden: false
 ---
