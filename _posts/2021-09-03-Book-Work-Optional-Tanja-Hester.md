@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# Book Review – “Work Optional: Retire Early the Non-Penny-Pinching Way” by Tanja Hester
-
 **BLUF:** “Work Optional: Retire Early the Non-Penny-Pinching Way” by Tanja Hester is an early retirement book that starts with the human elements of retirement, but also provides excellent methods for creating goals for retirement (including how to calculate the _magic number_ of money you’ll need to fully retire).
 
 This is the second book I’ve reviewed here, and also the second about the “Financial Independence” (a.k.a. early retirement) movement.  I’ve found that due to the difficulty of retiring early that these “FI” books often reveal planning ideas that are not covered in traditional retirement books.  
