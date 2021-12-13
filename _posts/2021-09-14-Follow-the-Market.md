@@ -55,3 +55,7 @@ With this in mind, it is most important to invest early.  **Time in the market i
 **FIX LINK**
 
 The trick is to continue to buy and hold index funds every month… even if the market is down. When the market is down, stocks go on sale. When the market is up, your investments will continue to grow in value. Either way, you have to dedicate yourself to saving and investing in your future wealth. If you build a solid investment plan and then stick to it, you are preparing to win over the long term.  
+
+----
+
+[Image Credit](https://www.flickr.com/photos/182229932@N07/48377502387)
