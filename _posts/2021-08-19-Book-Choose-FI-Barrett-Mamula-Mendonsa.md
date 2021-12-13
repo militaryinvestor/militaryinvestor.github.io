@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review, “Choose FI: Your Blueprint to Financial Independence”"
 author: ken
 categories: [ Books, FIRE ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-08-19-Book-Choose-FI.jpg
 featured: false
 hidden: false
 ---
