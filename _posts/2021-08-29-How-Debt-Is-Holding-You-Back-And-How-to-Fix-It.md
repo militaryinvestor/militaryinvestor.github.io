@@ -7,8 +7,8 @@ image: assets/images/2021-08-29-Debt.png
 featured: false
 hidden: false
 ---
-[Image Credit](https://pixabay.com/illustrations/debt-money-credit-loan-mortgage-3272735/)
 
+**BLUF:** Debt with high interest rates will kill your ability to invest.  Use the _debt snowball_ to pay down your debts faster before you start investing.
 
 I grew up poor-ish.  Though we sometimes had money, the majority of the time we didn’t.  We lived on what we had, but it wasn’t usually much.  In this environment, I didn’t learn much about money… and definitely not about investing.  Investing was something that rich people did, not us.  I had learned almost nothing about money growing up, so that when I finally had a little in the military, I quickly racked up $12,000 on an eBay credit card and bought a $200,000 house with a loan for 104% of the principal… just before the 2008 real estate market crash.  These massive mistakes took years to overcome, and could’ve been easily avoided if I understood what I know now.
 
@@ -51,3 +51,5 @@ You might argue, wouldn’t it be smarter to pay off the highest interest debts 
 We recently finished our own path to becoming debt-free (minus our home and rental mortgages).  Paying off our car loan and an old TSP loan cost thousands of dollars, but has allowed us to now redirect those payments and increase our investments by several hundred dollars every month.  
 
 If you are interested in learning more about eliminating your debts, I would recommend the audiobook version of Dave Ramsey’s “[Total Money Makeover](https://www.amazon.com/gp/product/1595555277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1595555277&linkCode=as2&tag=militaryinv09-20&linkId=95c18adcd920ae41662590669567400b)”.  As a radio host, Dave is a compelling storyteller and his enthusiasm is infectious.  His book is available through the DoD MWR Library (via the Libby app), as well as on sale at [Amazon](https://www.amazon.com/gp/product/1595555277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1595555277&linkCode=as2&tag=militaryinv09-20&linkId=95c18adcd920ae41662590669567400b).
+
+[Image Credit](https://pixabay.com/illustrations/debt-money-credit-loan-mortgage-3272735/)
