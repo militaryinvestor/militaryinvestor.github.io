@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Start Investing in the Thrift Savings Plan (TSP) Part Two: Change Your TSP Allocations"
 author: ken
-categories: [ Investing, Simple ]
+categories: [ Investing, Simple, Thrift Savings Plan ]
 image: assets/images/2021-12-12-TSP-Part2-Allocations/1 - TSP login button.png
 featured: false
 hidden: false
@@ -14,7 +14,7 @@ If you followed the steps in Part 1, you've already setup your MyPay to transfer
 
 If so, congrats!  You've taken your first step towards investing in the TSP!  However, this is where most people stop. They just throw some money into Thrift Savings Plan, which is a good start.  **But, until you change your fund allocations in TSP, you are not making as much money as you should be! **  
 
-By default, your money is going into the _G Fund_ in TSP... which isn't going to help you build the wealth you need.  If you haven't already, please read my post on why you shouldn't leave your money (only) in the G Fund: **ADD LINK TO G FunD POST**
+By default, your money is going into the _G Fund_ in TSP... which isn't going to help you build the wealth you need.  If you haven't already, please [read my post on why you shouldn't leave your money (only) in the G Fund](https://www.militaryinvestor.org/Don't-Leave-Your-TSP-Money-Only-in-The-G-Fund/).
 
 ----------
 
@@ -87,7 +87,6 @@ You should get a confirmation message. If so, you’ve just adjusted your Contri
 
 ![Interfund Transfer Form](../assets/images/2021-12-12-TSP-Part2-Allocations/12 - Interfund Transfers Form.png)
 9. Fill in the numbers on the right to decide where you want your current money to be invested. Once you are satisfied, click “Continue”. If everything worked, then you should have a confirmation page.
-
 
 ------------
 
