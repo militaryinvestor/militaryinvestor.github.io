@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# How to Start Investing in the TSP (Part 2): Change your TSP Investments (Don't Leave Everything in the G Fund!)
-
 **BLUF:** TSP is an easy, low-fee way to invest.  If you are enrolled in the Blended Retirement System (BRS), you are losing money if you don’t invest 5%.  Compound interest at market average gains can double your money every 10 years, so invest as much as early as possible.  But, to do this right in TSP, you must change your contribution allocations and do an interfund transfer if needed. 
 
 ------
@@ -43,6 +41,4 @@ But, this is only possible if you are making at least a 7% return over the long 
 ----
 
 If you aren't sure how your money in the TSP is invested, follow this step-by-step guide to fix that entitled "[How to Start Investing in the Thrift Savings Plan (TSP) Part Two: Change Your TSP Allocations](2021-12-12-How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations.md).
-
-So, are you ready to fix your TSP?  If so, follow the step-by-step guide in this post: "***ADD LINK TO TSP GUIDE PART 2**)
 
