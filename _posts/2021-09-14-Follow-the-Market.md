@@ -8,8 +8,7 @@ featured: false
 hidden: false
 ---
 
-> A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually out-perform most investment professionals. 
-> ---- WARREN BUFFETT, LEGENDARY INVESTOR
+> A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually out-perform most investment professionals. --WARREN BUFFETT, LEGENDARY INVESTOR
 
 **BLUF:** For the best gains, follow the market (with index funds) vs. trying to beat the market. No one can time the market, and 88% of active fund managers fail to beat the market average. Instead, consistently invest in index funds early and often for the best gains.
 
