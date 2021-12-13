@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# How to Start Investing in the Thrift Savings Plan (TSP) Part One: A Step By Step Guide to Setup MyPay
-
 To start investing in the Thrift Savings Plan (TSP), the first step is to setup your contributions in [My Pay](https://mypay.dfas.mil/).
 
 ![Step One: Open MyPay](../assets/images/2021-10-11-TSP-1 - MyPay.png)
