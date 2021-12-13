@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# Book Review, “Choose FI: Your Blueprint to Financial Independence”
-
 BLUF: The book, “[Choose FI: Your Blueprint to Financial Independence](https://www.amazon.com/Choose-FI-Blueprint-Financial-Independence/dp/0960058907)” is a great overview of the “[FIRE](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp)” movement (which focuses on Financial Independendence and Retiring Early).  
 
 I really love books, especially audiobooks about investing and finance.  I read all of them for free using my base library-funded subscription to Libby (its DoD wide).  Though I’ll circle around to some of the more foundational books on investing, I wanted to share an alternate philosophy on investing… the aim of extreme early retirement.
