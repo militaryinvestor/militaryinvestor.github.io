@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# Aggressively Cut Fees to Keep More of Your Profits
-
 > “It’s not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for.”
 > ROBERT T. KIYOSAKI, AUTHOR OF “RICH DAD POOR DAD”
 
