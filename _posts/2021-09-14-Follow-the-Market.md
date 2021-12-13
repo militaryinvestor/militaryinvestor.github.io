@@ -3,7 +3,7 @@ layout: post
 title:  "Tip: Follow the Market (with Index Funds) vs. Trying to Beat the Market"
 author: ken
 categories: [ Investing ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-09-14-Follow-the-Market.jpg
 featured: false
 hidden: false
 ---
