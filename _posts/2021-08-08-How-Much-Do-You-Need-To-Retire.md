@@ -3,7 +3,7 @@ layout: post
 title:  "How much do you need to retire?"
 author: ken
 categories: [ Retirement ]
-image: assets/images/2021-12-11-New-Beginnings.jpg
+image: assets/images/2021-08-08-How-Much-Do-You-Need-To-Retire.png
 featured: false
 hidden: false
 ---
