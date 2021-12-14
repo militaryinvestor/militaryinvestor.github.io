@@ -2,10 +2,9 @@
 
 
 
-# TO DO
-- Delete template pages
-- Start migrating old materials
-- Migrate main post!
+#### TO DO
+- Separate out IRA post
+- Remove sponsor from site
 
 
 Thank you!
