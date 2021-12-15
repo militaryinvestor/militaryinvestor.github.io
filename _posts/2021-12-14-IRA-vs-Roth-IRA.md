@@ -3,7 +3,7 @@ layout: post
 title:  "What's the difference between an IRA and Roth IRA?"
 author: ken
 categories: [ Retirement, Investments ]
-image: assets/images/2021-08-08-How-Much-Do-You-Need-To-Retire.png
+image: assets/images/2021-12-14-IRA-vs-Roth-IRA.png
 featured: false
 hidden: false
 ---
@@ -31,4 +31,4 @@ text=Your%20required%20minimum%20distribution%20is,before%20January%201%2)
 
 Because military members, especially enlisted members, are often in a very low tax bracket, a Roth IRA can make the most sense. **If you don’t know which to pick, pick the Roth IRA (if you meet the income limits) for now.**
 
-
+[Image Credit](https://www.freepik.com/free-vector/versus-vs-fight-battle-screen-background_6972702.htm)
