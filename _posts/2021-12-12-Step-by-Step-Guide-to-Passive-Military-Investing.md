@@ -41,7 +41,8 @@ Tip: Invest enough to get your full matching contribution and continue to the ne
 For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
 
 
-### Step 2: Eliminate your consumer debts <div id="step-2"></div>
+### Step 2: Eliminate your consumer debts 
+<div id="step-2"></div>
 Are you still paying off that Dodge Charger you bought after basic training (and still paying that 23% interest rate)? Ok, you might not have done that, but most of us don’t think much about how much we are paying in interest on our consumer
 debts every month.
 
