@@ -32,16 +32,12 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 
 <div id="step-1"></div>
 ### Step 1: Maximize your TSP matching
-![Maximize your TSP matching](../assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
+![Maximize your TSP matching](Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
+If you are eligible for matching from the Thrift Savings Plan (i.e. you joined in 2018 or later, or opted into the Blended Retirement System), the government will give you free money to invest in TSP ([up to 5% of your base pay](https://www.tsp.gov/publications/tspfs01.pdf)).  **If you aren't maxing this out, you are missing out on 100% risk-free money!**  (For veterans who receive matching from their company's 401K, the same rule applies)
 
-If you joined the military after 1 January 2018 and/or "opted in" to the Blended Retirement System (BRS), the government will nearly [match your TSP contributions on up to 5% of your basic pay](https://www.tsp.gov/publications/tspfs01.pdf).  If you contribute 5% of your basic pay into your TSP, the government will contribute another 4%. 
+TO DO: Invest enough to get your full matching contribution and continue to the next step.
 
-**If you aren’t maxing this out, do it now!** This is a guaranteed 80% return on your investment... it's free money! For example, if your 5% contribution is $500, the government would contribute $400. By putting in just $500, you now have $900 in your TSP.  **_You’ve almost doubled your money._** This is an absolute no-brainer, and should
-be every eliglble member’s first move towards financial freedom.
-
-For veterans with other matching opportunities, like an employer’s 401K program, the idea is the same. This is instant, free money that you can earn right now for retirement.  **It is part of your compensation, so don't leave this free money on the table.**
-
-If you haven’t done this yet, follow steps 3-4 immediately (to make sure you are investing enough to get the matching contribution, and to make sure it is invested properly). Then, come back to Step 2.
+For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
 
 ### Step 2: Eliminate your consumer debts
 Are you still paying off that Dodge Charger you bought after basic training (and still paying that 23% interest rate)? Ok, you might not have done that, but most of us don’t think much about how much we are paying in interest on our consumer
