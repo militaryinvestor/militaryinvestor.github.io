@@ -33,6 +33,7 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 ### Step 1: Maximize your TSP matching 
 <div id="step-1"></div>
 ![Maximize your TSP matching](../assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
+
 If you joined in 2018 or later or opted into the Blended Retirement System (BRS), the government will match your contributions when you invest in TSP ([up to 5% of your base pay](https://www.tsp.gov/publications/tspfs01.pdf)).  Basically, they put free money in your TSP account when you invest.  **If you aren't maxing this out, you are missing out on 100% risk-free money!**  (For veterans who receive matching from their company's 401K, the same rule applies.)
 
 Tip: Invest enough to get your full matching contribution and continue to the next step.
