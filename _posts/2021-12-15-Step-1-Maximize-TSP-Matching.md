@@ -4,8 +4,8 @@ title:  "Military Investing - Step 1: Maximize TSP Matching"
 author: ken
 categories: [ Investing, Step-by-Step Investing series ]
 image: assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/):
