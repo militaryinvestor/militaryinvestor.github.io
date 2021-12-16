@@ -9,7 +9,8 @@ hidden: false
 ---
 
 This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/):
-**1. Maximize your TSP matching**
+
+1. **Maximize your TSP matching**
 2. Eliminate your consumer debts
 3. Start investing small (1%)
 4. Buy investments
