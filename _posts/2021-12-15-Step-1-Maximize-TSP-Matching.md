@@ -8,6 +8,8 @@ featured: false
 hidden: false
 ---
 
+------------
+
 This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/):
 
 1. **Maximize your TSP matching**
