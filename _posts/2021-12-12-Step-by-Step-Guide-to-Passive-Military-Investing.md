@@ -13,7 +13,7 @@ hidden: true
 
 **BLUF:** Here are my 7 steps to military investing. Get your TSP matching and eliminate consumer debts. Then, start small (1%) and buy Lifecycle funds (in TSP) or _no-load, low-cost total market index funds_ (in an IRA or Roth IRA). Step up your investments each month, and diversify. Then, keep buying and holding… and don’t panic sell!
 
-_Updated: 12 Dec 2021_
+_Updated: 15 Dec 2021_
 
 Investing can be complicated. But, the truth is that you don’t have to rely on complicated investment strategies to build a nest egg for your future. By following a simple passive investing method, you can slowly and steadily create wealth. Investing in index funds can allow your money to grow much faster than inflation (over the long term) through the magic of compound interest.
 
@@ -30,7 +30,6 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 6. Diversify
 7. Keep buying and holding… don’t panic sell!
 
-<div id="step-1"></div>
 ### Step 1: Maximize your TSP matching
 ![Maximize your TSP matching](Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
 If you are eligible for matching from the Thrift Savings Plan (i.e. you joined in 2018 or later, or opted into the Blended Retirement System), the government will give you free money to invest in TSP ([up to 5% of your base pay](https://www.tsp.gov/publications/tspfs01.pdf)).  **If you aren't maxing this out, you are missing out on 100% risk-free money!**  (For veterans who receive matching from their company's 401K, the same rule applies)
@@ -38,6 +37,7 @@ If you are eligible for matching from the Thrift Savings Plan (i.e. you joined i
 TO DO: Invest enough to get your full matching contribution and continue to the next step.
 
 For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
+<div id="step-1"></div>
 
 ### Step 2: Eliminate your consumer debts
 Are you still paying off that Dodge Charger you bought after basic training (and still paying that 23% interest rate)? Ok, you might not have done that, but most of us don’t think much about how much we are paying in interest on our consumer
