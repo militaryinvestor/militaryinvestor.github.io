@@ -34,22 +34,21 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 <div id="step-1"></div>
 ![Maximize your TSP matching](../assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
 
-If you joined in 2018 or later or opted into the Blended Retirement System (BRS), the government will match your contributions when you invest in TSP ([up to 5% of your base pay](https://www.tsp.gov/publications/tspfs01.pdf)).  Basically, they put free money in your TSP account when you invest.  **If you aren't maxing this out, you are missing out on 100% risk-free money!**  (For veterans who receive matching from their company's 401K, the same rule applies.)
-
 Tip: Invest enough to get your full matching contribution and continue to the next step.
+
+If you joined in 2018 or later or opted into the Blended Retirement System (BRS), the government will match your contributions when you invest in TSP ([up to 5% of your base pay](https://www.tsp.gov/publications/tspfs01.pdf)).  Basically, they put free money in your TSP account when you invest.  **If you aren't maxing this out, you are missing out on 100% risk-free money!**  (For veterans who receive matching from their company's 401K, the same rule applies.)
 
 For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
 
 
 ### Step 2: Eliminate your consumer debts 
 <div id="step-2"></div>
-Are you still paying off that Dodge Charger you bought after basic training (and still paying that 23% interest rate)? Ok, you might not have done that, but most of us don’t think much about how much we are paying in interest on our consumer
-debts every month.
 
-The intent of this post is not to concentrate on debt reduction. However, it is key to being able to build wealth. For example, if you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to build your wealth. Your credit card balance is a hole in your financial bucket, and your hard-earned money is running out the bottom of it. Fix your finances by paying off these consumer debts first.
+Tip: Use the _debt snowball_ to pay off all of your consumer debt except for your mortgage (i.e. credit cards, personal loans, car payments, etc.).  
 
-A great program is Dave Ramsey’s book, “Total Money Makeover”. In the 2nd of
-his “[7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps#baby_step_2)”, he tells people to list all of their debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
+To be able to build wealth, you need to get rid of your _consumer debt_ like credit cards, personal loans, and car payments.  Why?  For example, if you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to build your wealth.  Your credit card balance is a hole in your financial bucket, and your hard-earned money is running out the bottom of it. Fix your finances by paying off these consumer debts first.
+
+To do this, follow the 2nd step of Dave Ramsey's book “Total Money Makeover”. In the 2nd of his “[7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps#baby_step_2)”, he tells people to list all of their debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
 
 For more information about how to eliminate debt, please read the post titled, “[How Debt is Holding You Back, and How to Fix It](https://www.militaryinvestor.org/How-Debt-Is-Holding-You-Back-And-How-to-Fix-It/).” 
 
