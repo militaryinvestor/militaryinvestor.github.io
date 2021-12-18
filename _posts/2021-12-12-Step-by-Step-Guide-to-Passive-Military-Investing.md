@@ -33,9 +33,8 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 7. [Keep buying and holding… don’t panic sell!](#step-7)
 
 ----------
-
-### Step 1: Maximize your TSP matching 
 <div id="step-1"></div>
+### Step 1: Maximize your TSP matching 
 ![Maximize your TSP matching](../assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
 
 Tip: Invest enough to get your full matching contribution and continue to the next step.
@@ -45,9 +44,8 @@ If you joined in 2018 or later or opted into the Blended Retirement System (BRS)
 For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
 
 ----------
-
-### Step 2: Eliminate your consumer debts 
 <div id="step-2"></div>
+### Step 2: Eliminate your consumer debts 
 ![Eliminate Consumer Debts](../assets/images/2021-12-16-Military-Investing-Step-2-Eliminate-Debt.png)
 
 Tip: Use the _debt snowball_ to pay off all of your consumer debt except for your mortgage (i.e. credit cards, personal loans, car payments, etc.).  
