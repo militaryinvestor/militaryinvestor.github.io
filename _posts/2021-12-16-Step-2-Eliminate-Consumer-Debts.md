@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Military Investing - Step 2: Eliminate Consumer Debt"
