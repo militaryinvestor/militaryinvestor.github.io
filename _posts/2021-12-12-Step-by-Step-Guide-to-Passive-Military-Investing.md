@@ -88,7 +88,7 @@ Tip: Increase your contributions each month until you reach 15% (or more, if you
 
 Increase your contributions by 1% (or more) every month until you can’t sustain it anymore financially. Then, as you get pay raises or other income, invest that as well. Keep going until you hit 15% of your income every month invested.  The sooner you start, the more your investments will grow.
 
-For more explanation, read more about how to [Increase Your Investments](https://www.militaryinvestor.org/Step-5-Increase-Investments/).
+For more explanation, read more about how to [Increase Your Contributions](https://www.militaryinvestor.org/Step-5-Increase-Contributions/).
 
 ---------
 
