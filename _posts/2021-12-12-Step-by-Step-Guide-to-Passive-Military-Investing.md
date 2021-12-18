@@ -15,6 +15,8 @@ hidden: true
 
 _Updated: 17 Dec 2021_
 
+*[TSP]: Thrift Savings Plan
+
 Investing can be complicated. But, the truth is that you don’t have to rely on complicated investment strategies to build a nest egg for your future. By following a simple passive investing method, you can slowly and steadily create wealth. Investing in index funds can allow your money to grow much faster than inflation (over the long term) through the magic of compound interest.
 
 For this article, I’ll outline the steps to simple investing. Then, over the next few weeks I’ll write up explanations for the different technical terms being used (for those who are interested). Read the ones you want, but know that this is the plan that I use myself.
