@@ -49,29 +49,17 @@ Tip: Use the _debt snowball_ to pay off all of your consumer debt except for you
 
 If you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to help you.  List all of your debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
 
-For explanation, read more about [Eliminating Your Consumer Debts](https://www.militaryinvestor.org/Step-2-Eliminate-Consumer-Debts/).
+For more explanation, read more about [Eliminating Your Consumer Debts](https://www.militaryinvestor.org/Step-2-Eliminate-Consumer-Debts/).
 
 ### Step 3: Start investing small (1%)
+<div id="step-3")</div>
+![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-2-Start-Small.png)
 
-The main choice is, do you start investing in the Thrift Savings Plan (TSP) or an Individual Retirement Account (IRA) or Roth IRA? If you are just getting started and are in the military or government service, I’d recommend the TSP. It is probably the easiest way to get started investing. Also, you can contribute much more to TSP([$19,500/year](https://www.tsp.gov/makingcontributions/contribution-limits/)) than into an IRA or Roth IRA ([$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits).
+Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
 
-#### Step 3A: Thrift Savings Plan (TSP):
+The most important thing you can do to build wealth is start today!  The most important thing is starting as soon as possible, as the _magic of compound interest_ creates large returns over the long run.  If you are in the military or government service, I'd recommend the Thrift Savings Plan (TSP).  It is the easiest way to start, and you can invest more money than in a Roth IRA ([$20,500/year](https://www.tsp.gov/makingcontributions/contribution-limits/) vs. [$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits).
 
-To start investing in TSP, the first step is to setup your contributions in [MyPay](https://mypay.dfas.mil/).  For instructions on how to get started, follow the instructions in our post entitled, "[How to Start Investing in the Thrift Savings Plan (TSP) Part One: Setup MyPay](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-1-MyPay/)"
-
-#### Step 3B: Individual Retirement Account (IRA) or Roth IRA
-
-If you are not able to invest into the TSP (e.g. you are a veteran and are not in government civil service), or if you are interested in investing outside of TSP’s 5 funds, then I’d suggest opening an Individual Retirement Account (IRA) or Roth IRA with a low cost investing site. Some options include [Charles Schwab](https://www.schwab.com/) and Vanguard, but there are dozens of platforms to choose from. I personally use Schwab; it wasn’t a very well thought out decision, but they have lots of low-cost investing options and I’m generally comfortable with their services. But, do your own research and pick a company with no monthly fees and with access to the investments you want. More on that in the moment.
-
-The process will be different, depending on the company you choose. However, create an account and open either an Individual Retirement Account (IRA) or a Roth IRA.
-
-For more details about the differences between an IRA vs. a Roth IRA, [read this post](https://www.militaryinvestor.org/IRA-vs-Roth-IRA/).
-
-Because military members, especially enlisted members, are often in a very low tax bracket, a Roth IRA can make the most sense. **If you don’t know which to pick, pick the Roth IRA (if you meet the income limits) for now.**
-
-Once you have opened either an IRA or Roth IRA with your chosen company, setup automatic payments to that account every month. To decide what amount, I decide what percent I want to take from my total gross income. To do this, I look at the “Total Entitlements” amount on my LES and multiply. For example, if I wanted to invest 1% of my total income, I would take my Total Entitlements amount (let’s say, $7,500) and multiply by 0.01 (1%). That means I should be investing $75/month.
-
-When you have your automatic payments setup, that’s it! You can wait until your next paycheck, or transfer some money now to get started. Either way, you have just taken a huge step towards investing in your future.
+For more explanation, read more about how to [Start Investing Small (1%)](https://www.militaryinvestor.org/Step-3-Start-Small/).
 
 ### Step 4: Buy Investments
 
