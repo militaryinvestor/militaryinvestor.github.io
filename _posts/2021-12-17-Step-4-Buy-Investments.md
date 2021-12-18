@@ -52,8 +52,3 @@ There are a number of ETFs and index mutual funds that meet this criteria. Here 
 **Note: One thing I’ve learned is that though these funds do not charge an initial fee, your brokerage company may charge a fee for mutual funds from other companies.** For example, Schwab doesn’t charge a fee to buy their own mutual funds, but does for other company’s mutual funds (like Vanguard). Take this into account when you are deciding which company to open your accounts with.
 
 Return to the [Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/#step-4)
-
-
-
-
-
