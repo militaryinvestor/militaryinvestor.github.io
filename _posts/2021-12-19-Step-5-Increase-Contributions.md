@@ -24,7 +24,7 @@ This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" s
 
 Next, you need to increase the amount you contribute each month. Saving 1% of your money will not be enough. For a traditional retirement, saving approximately 15% of your total gross income is a good recommendation (or more, if you started late in life). So, if you have 1% coming out of your paycheck, you need to ramp that up.
 
-My recommendation":" Increase your contributions by 1% (or more) every month until you can’t sustain it anymore financially. Then, as you get pay raises or other income, invest that as well. Keep going until you hit 15% of your income every
+My recommendation - Increase your contributions by 1% (or more) every month until you can’t sustain it anymore financially. Then, as you get pay raises or other income, invest that as well. Keep going until you hit 15% of your income every
 month invested.
 
 #### Time is your friend
