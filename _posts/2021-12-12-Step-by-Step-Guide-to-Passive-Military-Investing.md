@@ -52,7 +52,7 @@ If you are paying 12% interest on a credit card, earning 7% (on average) from yo
 For more explanation, read more about [Eliminating Your Consumer Debts](https://www.militaryinvestor.org/Step-2-Eliminate-Consumer-Debts/).
 
 ### Step 3: Start investing small (1%)
-<div id="step-3")</div>
+<div id="step-3"></div>
 ![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){:height="470px" }
 
 Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
