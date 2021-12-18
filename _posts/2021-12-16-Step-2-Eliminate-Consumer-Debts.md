@@ -31,6 +31,6 @@ The intent of this post is not to concentrate on debt reduction. However, it is 
 A great program is Dave Ramsey’s book, “Total Money Makeover”. In the 2nd of
 his “[7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps#baby_step_2)”, he tells people to list all of their debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
 
-For more information about how to eliminate debt, please read the post titled, “[How Debt is Holding You Back, and How to Fix It](https://www.militaryinvestor.org/How-Debt-Is-Holding-You-Back-And-How-to-Fix-It/).” 
+For more detailed information about how to eliminate debt with Deve Ramsey's method, please read the post titled, “[How Debt is Holding You Back, and How to Fix It](https://www.militaryinvestor.org/How-Debt-Is-Holding-You-Back-And-How-to-Fix-It/).” 
 
 Return to the [Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/#step-2)
