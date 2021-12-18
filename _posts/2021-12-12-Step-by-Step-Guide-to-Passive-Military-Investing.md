@@ -22,13 +22,13 @@ For this article, I’ll outline the steps to simple investing. Then, over the n
 First, a disclaimer: **I am not a financial advisor, and I’m definitely not your financial advisor.** These are steps I’ve learned from others much more knowledgeable than myself, and are the principles that I practice myself. How you invest will depend a lot on your personal situation – like how soon you’ll need money for retirement, or for big expenses like college or home purchases. But, these guidelines provide a good baseline for most military investors.
 
 #### The steps:
-1. Maximize your TSP matching
-2. Eliminate your consumer debts
-3. Start investing small (1%)
-4. Buy investments
-5. Increase your monthly contributions
-6. Diversify
-7. Keep buying and holding… don’t panic sell!
+1. [Maximize your TSP matching](#step-1)
+2. [Eliminate your consumer debts](#step-2)
+3. [Start investing small (1%)](#step-3)
+4. [Buy investments](#step-4)
+5. [Increase your monthly contributions](#step-5)
+6. [Diversify](#step-6)
+7. [Keep buying and holding… don’t panic sell!](#step-7)
 
 ----------
 
@@ -81,6 +81,7 @@ For more explanation, read more about how to [Buy Investments](https://www.milit
 ----------
 
 ### Step 5: Increase Your Contributions
+<div id="step-5"></div>
 Next, you need to increase the amount you contribute each month. Saving 1% of your money will not be enough. For a traditional retirement, saving approximately 15% of your total gross income is a good recommendation (or more, if you started late in life). So, if you have 1% coming out of your paycheck, you need to ramp that up.
 
 My recommendation: Increase your contributions by 1% (or more) every month until you can’t sustain it anymore financially. Then, as you get pay raises or other income, invest that as well. Keep going until you hit 15% of your income every
@@ -97,6 +98,7 @@ But, most of us don’t have $10,000 just laying around. For the rest of us, you
 From decade to decade, the rate of return may change. There may be a major market crash that shrinks your nest egg, or a major bull market that creates explosive growth. However, if you have a long time horizon (i.e. a long time until you need to retire), you can ride those waves to a fairly predictable 6-7% gain over the long term… as long as you buy and hold. And, as long as you continue to buy, even when the market is going down.
 
 ### Step 6: Diversify
+<div id="step-6"></div>
 Once you’ve started to build a significant nest egg, you’ll need to diversify further. Market down turns can cut your nest egg quickly. Though the U.S. stock market has always bounced back stronger, one way to mitigate the effects of a market crash is to buy different types of investments.
 
 Recommendations I’ve read concerning how much stocks vs. bonds to hold are all over the place. Some writers that a 80% stocks/20% bonds ratio is a good ratio (if a little aggressive) for most younger investors. Then, recommend a mix of 65% stocks/35% bonds as you approach retirement age (55-70 years old). Then, finally, a 50% stocks/50% bonds splits when you are at retirement age (70 years and older) and selling off parts of your investments for your living expenses. This way,
@@ -151,6 +153,7 @@ There are lots of other ways to diversify your holdings beyond just paper assets
 **Entrepreneurship / Side Hustles** are other ways to generate additional returns on your investment dollars. Investing in your own business or side hustle can be a great way to create additional revenue, open up new tax benefits, and potentially allow you to add revenue into your other investments.
 
 ### Step 7: Keep Buying and Holding… Don’t Panic Sell!
+<div id="step-7"></div>
 This is perhaps the most important step of all. At this point, you are investing a significant part of your income, and building a nice diversified nest egg for retirement. However, it is inevitable that there will be a bad day in the stock market. Or, a major event will happen (like market crash in 2020) and sink the stock market for months.
 
 Listen to me. **Do not panic sell.**
