@@ -57,7 +57,7 @@ For more explanation, read more about [Eliminating Your Consumer Debts](https://
 
 Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
 
-The most important thing you can do to build wealth is start today!  The most important thing is starting as soon as possible, as the _magic of compound interest_ creates large returns over the long run.  If you are in the military or government service, I'd recommend the Thrift Savings Plan (TSP).  It is the easiest way to start, and you can invest more money than in a Roth IRA ([$20,500/year](https://www.tsp.gov/makingcontributions/contribution-limits/) vs. [$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits).
+The most important thing you can do to build wealth is start today!  The most important thing is starting as soon as possible, as the _magic of compound interest_ creates large returns over the long run.  If you are in the military or government service, I'd recommend the Thrift Savings Plan (TSP).  It is the easiest way to start, and you can invest more money than in a Roth IRA ([$20,500/year](https://www.tsp.gov/makingcontributions/contribution-limits/) vs. [$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits)).
 
 For more explanation, read more about how to [Start Investing Small (1%)](https://www.militaryinvestor.org/Step-3-Start-Small/).
 
