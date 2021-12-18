@@ -112,7 +112,7 @@ Tip: Don't panic when the market drops.  Continue buying and holding until you r
 
 This is perhaps the most important step of all. At this point, you are investing a significant part of your income, and building a nice diversified nest egg for retirement. However, eventually there will downturns in the market.  But, the longest downturn in U.S. history (the Great Depression) only lasted 3.5 years.  And, even with downturns such as this, the market has gained ~7% over the long term.  As long as you are far from retirement, the smart play is to stay invested.
 
-For more explanation, read more on why to [Keep Buying and Holding]((https://www.militaryinvestor.org/Step-7-Buy-and-Hold/).
+For more explanation, read more on why to [Keep Buying and Holding](https://www.militaryinvestor.org/Step-7-Buy-and-Hold/).
 
 -------
 
