@@ -13,7 +13,7 @@ hidden: true
 
 **BLUF:** Here are my 7 steps to military investing. Get your TSP matching and eliminate consumer debts. Then, start small (1%) and buy Lifecycle funds (in TSP) or _no-load, low-cost total market index funds_ (in an IRA or Roth IRA). Step up your investments each month, and diversify. Then, keep buying and holding… and don’t panic sell!
 
-_Updated: 15 Dec 2021_
+_Updated: 17 Dec 2021_
 
 Investing can be complicated. But, the truth is that you don’t have to rely on complicated investment strategies to build a nest egg for your future. By following a simple passive investing method, you can slowly and steadily create wealth. Investing in index funds can allow your money to grow much faster than inflation (over the long term) through the magic of compound interest.
 
@@ -49,7 +49,7 @@ Tip: Use the _debt snowball_ to pay off all of your consumer debt except for you
 
 If you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to help you.  List all of your debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
 
-For more information about how to eliminate debt, please read the post titled, “[How Debt is Holding You Back, and How to Fix It](https://www.militaryinvestor.org/How-Debt-Is-Holding-You-Back-And-How-to-Fix-It/).” 
+For explanation, read more about [Eliminating Your Consumer Debts](https://www.militaryinvestor.org/Step-2-Eliminate-Consumer-Debts/).
 
 ### Step 3: Start investing small (1%)
 
