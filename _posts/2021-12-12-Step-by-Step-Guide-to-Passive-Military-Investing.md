@@ -30,6 +30,8 @@ First, a disclaimer: **I am not a financial advisor, and I’m definitely not yo
 6. Diversify
 7. Keep buying and holding… don’t panic sell!
 
+----------
+
 ### Step 1: Maximize your TSP matching 
 <div id="step-1"></div>
 ![Maximize your TSP matching](../assets/images/Step-by-Step-Guide-to-Passive-Military-Investing/TSP-matching.png)
@@ -40,6 +42,7 @@ If you joined in 2018 or later or opted into the Blended Retirement System (BRS)
 
 For more explanation, read more about [Maximizing Your TSP Matching](https://www.militaryinvestor.org/Step-1-Maximize-TSP-Matching/).
 
+----------
 
 ### Step 2: Eliminate your consumer debts 
 <div id="step-2"></div>
@@ -51,6 +54,8 @@ If you are paying 12% interest on a credit card, earning 7% (on average) from yo
 
 For more explanation, read more about [Eliminating Your Consumer Debts](https://www.militaryinvestor.org/Step-2-Eliminate-Consumer-Debts/).
 
+----------
+
 ### Step 3: Start investing small (1%)
 <div id="step-3"></div>
 ![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){:height="470px" }
@@ -61,6 +66,8 @@ The most important thing you can do to build wealth is start today!  The most im
 
 For more explanation, read more about how to [Start Investing Small (1%)](https://www.militaryinvestor.org/Step-3-Start-Small/).
 
+----------
+
 ### Step 4: Buy Investments (TSP Funds & Index Funds)
 <div id="step-4"></div>
 ![Buy Investments](../assets/images/2021-12-18-Step-4-Buy-Investments.png){:height="470px" }
@@ -70,6 +77,8 @@ Tip: Once you have money in your investment accounts, start buying TSP Funds or 
 In a TSP, the easiest way to start is to buy Lifecycle "L" Funds.  In an IRA or Roth-IRA, buy _No-Load, Low-Fee Total Market Index Funds_.
 
 For more explanation, read more about how to [Buy Investments](https://www.militaryinvestor.org/Step-4-Buy-Investments/).
+
+----------
 
 ### Step 5: Increase Your Contributions
 Next, you need to increase the amount you contribute each month. Saving 1% of your money will not be enough. For a traditional retirement, saving approximately 15% of your total gross income is a good recommendation (or more, if you started late in life). So, if you have 1% coming out of your paycheck, you need to ramp that up.
