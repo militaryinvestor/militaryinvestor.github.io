@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-------------
-
 This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/):
 
 1. Maximize your TSP matching
@@ -38,6 +36,6 @@ month invested.
 
 -------
 
-For extra credit, those who are interested in early retirement should research the "Financial Independence, Early Retirement" (FIRE) movement.  However, their recommendations for savings are usually between 30-50% of total income.  Though this is an insane level of savings, it comes with the possibility of retiring much earlier (especially when you start early).
+For extra credit, those who are interested in early retirement should research the "Financial Independence, Early Retirement" (FIRE) movement.  However, their recommendations for savings are usually between 30-50% of total income.  Though this is an insane level of savings, it comes with the possibility of retiring decades earlier (especially when you start early).
 
 Return to the [Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/#step-5)
