@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Military Investing - Step 5: Increase Your Contributions"
+title:  "Military Investing - Step 5 - Increase Your Contributions"
 author: ken
 categories: [ Investing, Step-by-Step Investing series ]
 image: assets/images/2021-12-19-Step-5-Increase-Contributions.png
