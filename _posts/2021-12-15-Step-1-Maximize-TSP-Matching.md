@@ -29,6 +29,6 @@ be every eliglble member’s first move towards financial freedom.
 
 For veterans with other matching opportunities, like an employer’s 401K program, the idea is the same. This is instant, free money that you can earn right now for retirement.  **It is part of your compensation, so don't leave this free money on the table.**
 
-If you haven’t done this yet, please ensure that you are investing enough each paycheck to get your matching contribution.  To invest in the TSP, follow steps 3 and 4 immediately (to setup your contributions)... then, come back to Step 2.
+If you haven’t done this yet, please ensure that you are investing enough each paycheck to get your matching contribution.  To invest in the TSP, follow the guidelines on how to [setup your MyPay](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-1-MyPay/) and [setup your TSP allocations](https://www.militaryinvestor.org/How-to-Start-Investing-in-The-Thrift-Savings-Plan-TSP-Part-2-TSP-Allocations/) immediately... then, continue to Step #2.
 
 Return to the [Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/#step-1)
