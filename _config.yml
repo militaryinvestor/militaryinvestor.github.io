@@ -3,7 +3,7 @@ name: "Military Investor"
 title: "Investing Education Specifically for Military Members and Veterans"
 description: "How to Invest: Military Edition"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'militaryinvestor'
