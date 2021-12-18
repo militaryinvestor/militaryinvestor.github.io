@@ -58,7 +58,7 @@ For more explanation, read more about [Eliminating Your Consumer Debts](https://
 
 ### Step 3: Start investing small (1%)
 <div id="step-3"></div>
-![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){:height="470px" }
+![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png)
 
 Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
 
@@ -70,7 +70,7 @@ For more explanation, read more about how to [Start Investing Small (1%)](https:
 
 ### Step 4: Buy Investments (TSP Funds & Index Funds)
 <div id="step-4"></div>
-![Buy Investments](../assets/images/2021-12-18-Step-4-Buy-Investments.png){:height="470px" }
+![Buy Investments](../assets/images/2021-12-18-Step-4-Buy-Investments.png)
 
 Tip: Once you have money in your investment accounts, start buying TSP Funds or Index Funds.
 
@@ -82,7 +82,7 @@ For more explanation, read more about how to [Buy Investments](https://www.milit
 
 ### Step 5: Increase Your Contributions
 <div id="step-5"></div>
-![Increase Contributions](../assets/images/2021-12-19-Step-5-Increase-Contributions.png){:height="470px" }
+![Increase Contributions](../assets/images/2021-12-19-Step-5-Increase-Contributions.png)
 
 Tip: Increase your contributions each month until you reach 15% (or more, if you started late).  
 
@@ -94,7 +94,7 @@ For more explanation, read more about how to [Increase Your Investments](https:/
 
 ### Step 6: Diversify
 <div id="step-6"></div>
-![Diversify](../assets/images/2021-12-20-Step-6-Diversify.png){:height="470px" }
+![Diversify](../assets/images/2021-12-20-Step-6-Diversify.png)
 
 Tip: _Diversify_ (i.e. buy lots of different types of investments) to lower the risk of a market downturn.
 
@@ -106,7 +106,7 @@ For my take on diversification, read more on how to [Diversify](https://www.mili
 
 ### Step 7: Keep Buying and Holding… Don’t Panic Sell!
 <div id="step-7"></div>
-![Diversify](../assets/images/2021-12-21-Step-7-Buy-and-Hold.png){:height="470px" }
+![Diversify](../assets/images/2021-12-21-Step-7-Buy-and-Hold.png)
 
 Tip: Don't panic when the market drops.  Continue buying and holding until you retire.
 
