@@ -43,10 +43,11 @@ For more explanation, read more about [Maximizing Your TSP Matching](https://www
 
 ### Step 2: Eliminate your consumer debts 
 <div id="step-2"></div>
+![Eliminate Consumer Debts](../assets/images/2021-12-16-Military-Investing-Step-2-Eliminate-Debt.png)
 
 Tip: Use the _debt snowball_ to pay off all of your consumer debt except for your mortgage (i.e. credit cards, personal loans, car payments, etc.).  
 
-To be able to build wealth, you need to get rid of your _consumer debt_ like credit cards, personal loans, and car payments.  Why?  For example, if you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to build your wealth.  Your credit card balance is a hole in your financial bucket, and your hard-earned money is running out the bottom of it. Fix your finances by paying off these consumer debts first.
+To be able to build wealth, you need to get rid of your _consumer debt_ like credit cards, personal loans, and car payments.  If you are paying 12% interest on a credit card, earning 7% (on average) from your index funds is not going to help.  Your credit card balance is a hole in your financial bucket, and your hard-earned money is running out the bottom of it. Fix your finances by paying off these consumer debts first.
 
 To do this, follow the 2nd step of Dave Ramsey's book “Total Money Makeover”. In the 2nd of his “[7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps#baby_step_2)”, he tells people to list all of their debts (in order from smallest debt to largest – regardless of interest rate). Then, pay off the smallest debt as fast as you can. Then, attack the second smallest. And continue until they are all gone.
 
