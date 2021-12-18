@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-------------
-
 This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/):
 
 1. Maximize your TSP matching
@@ -31,8 +29,7 @@ month invested.
 #### Time is your friend
 The more you invest – and the earlier you invest it – the more gains you should receive. The impact of more time can be astronomical. 
 
-The earlier you invest, the more likely that compound interest will exponentially increase your money. As a rule of thumb, at a 7% return on investment (which the total market has sustained through its existence) your money would double roughly every decade. In a perfect world, you could invest $10,000 and it would double to $20,000 in 10 years. Then, that money
-would double again (to $40,000) in 20 years. And again (to $80,000) in 30 years. And, to an astounding $160,000 after 40 years. All without investing another dollar.
+The earlier you invest, the more likely that compound interest will exponentially increase your money. As a rule of thumb, at a 7% return on investment (which the total market has sustained through its existence) your money would double roughly every decade. In a perfect world, you could invest $10,000 and it would double to $20,000 in 10 years. Then, that money would double again (to $40,000) in 20 years. And again (to $80,000) in 30 years. And, to an astounding $160,000 after 40 years. All without investing another dollar.
 
 But, most of us don’t have $10,000 just laying around. For the rest of us, you’ll need to invest consistently throughout your working years. The amount you save and invest will determine how comfortable of a retirement you will be able to have.
 
@@ -42,8 +39,3 @@ From decade to decade, the rate of return may change. There may be a major marke
 For extra credit, those who are interested in early retirement should research the "Financial Independence, Early Retirement" (FIRE) movement.  However, their recommendations for savings are usually between 30-50% of total income.  Though this is an insane level of savings, it comes with the possibility of retiring much earlier (especially when you start early).
 
 Return to the [Step-by-Step Guide to (Passive) Military Investing" series](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/#step-5)
-
-
-
-
-
