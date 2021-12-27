@@ -1,13 +1,4 @@
-# READ ME
 
-
-
-#### TO DO
-- Separate out IRA post
-- Remove sponsor from site
-
-
-Thank you!
 
 ### Uses Mediumish - Jekyll Theme
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp;
