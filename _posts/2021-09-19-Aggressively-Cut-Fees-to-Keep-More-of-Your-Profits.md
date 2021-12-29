@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-**BLUF: Investing fees can greatly reduce your earnings... even a 1% fee can be very costly.  Aggressively cut them out.**
+**BLUF: Aggressively cut investing fees, as even a 1% fee can cost you thousands of dollars (or more).**
 
 > “It’s not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for.”
 > ROBERT T. KIYOSAKI, AUTHOR OF “RICH DAD POOR DAD”
@@ -56,7 +56,9 @@ Second, look at what investments you are purchasing in these accounts.  Before i
 
 Typically, _no-load low-fee total market index funds_ have the lowest fees.  Many total market index funds and ETFs – including those from Vanguard, Schwab, and others – charge around 0.03-0.04%.  Other _sector_ index funds (that concentrate on smaller sections of the markets such as real estate, technology, or international stocks) have somewhat higher fees.  **However, avoid any funds that have loads, or have expense ratios above 0.1%.** 
 
-Thirdly, you have to address the largest fees of all – taxes.  By buying investments in tax-advantaged accounts – such as Roth IRAs or traditional IRAs – you can minimize or delay the taxes you pay.  In the case of Roth IRAs, you invest after-tax dollars, but you also avoid all taxes on the gains (including dividends) on your investments, which can equal a major tax advantage ([as long as you meet the maximum income limits to contribute into one](https://www.irs.gov/retirement-plans/amount-of-roth-ira-contributions-that-you-can-make-for-2021)).  I’ll cover this more in future posts.  
+Thirdly, you have to address the largest fees of all – taxes.  By buying investments in tax-advantaged accounts – such as Roth IRAs or traditional IRAs – you can minimize or delay the taxes you pay.  In the case of Roth IRAs, you invest after-tax dollars, but you also avoid all taxes on the gains (including dividends) on your investments, which can equal a major tax advantage ([as long as you meet the maximum income limits to contribute into one](https://www.irs.gov/retirement-plans/amount-of-roth-ira-contributions-that-you-can-make-for-2021).
+
+For more information about the differences between Roth IRAs and Traditional IRAs (and how they affect taxes), [read our article on the Roth IRA vs. IRAs](https://www.militaryinvestor.org/IRA-vs-Roth-IRA/).
 
 -------------------
 
