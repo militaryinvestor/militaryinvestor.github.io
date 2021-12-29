@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-**BLUF:** TSP is an easy, low-fee way to invest.  If you are enrolled in the Blended Retirement System (BRS), you are losing money if you don’t invest 5%.  Compound interest at market average gains can double your money every 10 years, so invest as much as early as possible.  But, to do this right in TSP, you must change your contribution allocations and do an interfund transfer if needed. 
+**BLUF:** The Thrist Savings Plan (TSP) is an easy, low-fee way to invest.  If you are enrolled in the Blended Retirement System (BRS), you are losing money if you don’t invest 5% into TSP.  With a ~7% return, investing can double your money every 10 years so invest as early as possible.  But, you won't make anywhere near this much if you money is in the default "G Fund".  Fix your TSP contribution allocations and do an interfund transfer if needed. 
 
 ------
 
