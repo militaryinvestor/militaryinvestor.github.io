@@ -9,6 +9,8 @@
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <span class="ml-1 mr-1">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a class="ml-1 mr-1" href="{{ site.baseurl }}">{{ page }}</a>
     {% else %}
       <a class="ml-1 mr-1" href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
