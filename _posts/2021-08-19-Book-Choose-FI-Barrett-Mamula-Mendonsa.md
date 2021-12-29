@@ -27,8 +27,8 @@ However, they make one really interesting step from there: **Every dollar you sa
 3. Hitting 6-figure ($100,000+) investment portfolio
 4. Half Financial Independence (FI).  Your investments reach 12.5x your annual expenses
 5. Getting Close:
-  5a. Your investments reach 25x your annual essential expenses (housing/food/utilities/health insurance)… can stop working w/out starving
-  5b. Your investments reach 20x your total annual expenses… could fund your lifestyle with 5% distributions from investments (some risk, but possible)
+-  5a. Your investments reach 25x your annual essential expenses (housing/food/utilities/health insurance)… can stop working w/out starving
+-  5b. Your investments reach 20x your total annual expenses… could fund your lifestyle with 5% distributions from investments (some risk, but possible)
 6. Financial Independence (FI) – Investments reach 25x total annual expenses
 
 The idea is to cut things out of your life that don’t improve your life, and increase your investment percentage to an astronomical amount (50% or more, vs. the typical 10-15% recommended). The authors go on to outline several ways  to cut costs, especially in the big three of expenses: living expenses, transportation, and food. Here are some sample ideas:
@@ -43,6 +43,6 @@ There is a lot more, including a very interesting technical discussion on minimi
 
 ------------
 
-Note: This book is also available to borrow for free from Libby (using your DoD library card), albeit with a waiting period.  
+Note: This book is also available to borrow for free from Libby (using your DoD library card), or [available on Amazon](https://www.amazon.com/gp/product/0960058907/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0960058907&linkCode=as2&tag=militaryinv09-20&linkId=2ccd31ed5acf3e822ebb3af709e342d9).  
 
 
