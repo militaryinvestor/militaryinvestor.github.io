@@ -48,11 +48,13 @@ Based on all of this, this is how I have estimated my nest egg in retirement:
 2. Estimate how much money you'll get in military retirement (if applicable).  Subtract this from your overall costs.
 3. Multiply this by 25x or 33x.  This is your nest egg in today's dollars.
 4. Decide how many years from now you'll retire.  
-5. Planning for 3% inflation, use the [Rule of 72](https://www.militaryinvestor.org/The-Rule-of-72/) to determine how much to multiple your nest egg by.  As a rule of thumb, if you will retire in 27 years, double your nest egg.
+5. Planning for 3% inflation, use a [Future Inflation Calculator](https://www.vertex42.com/Calculators/inflation-calculator.html) to find out how much money (in future dollars) you'll eventually need to have to retire.  As a rule of thumb, if you will retire in 27 years you can use the [Rule of 72](https://www.militaryinvestor.org/The-Rule-of-72/) and just double your nest egg.
 
 For example:
 
 If I decide I need $40,000 in today's dollars in retirement (after steps 1 & 2), I'd them multiply by 25.  This gives me a total of $1,000,000 needed (in today's dollars).  Then, if I'm retiring in 27 years, **I'd double my nest egg to $2,000,000 to account for inflation.**
+
+**Note: This is an estimate.** A ton of things can cause you to need more or less money in the future.  As you go along your investing journey, you'll likely change this number (especially as you get closer to your retirement date).  However, it is helpful to have a number in mind as you decide how much to invest for your retirement.
 
 --------------
 
