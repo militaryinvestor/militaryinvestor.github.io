@@ -22,6 +22,8 @@ For most of us, trying to beat the market (especially over the long term) is a r
 - Past performance hold no bearing on future performance
 - Investments with higher returns usually have much higher risks.
 
+---------------
+
 > #### Value Investing:
 
 > Note: Ok, so there are some investors who have beaten the market average over the long term (like Warren Buffett) through value investing.  Value investing involves buying companies’ stock whose price is much lower than it should be based on their revenue and assets, and then buying and holding them over the long term.  However, this takes serious research and a little luck, and is a riskier plan than passive investing (as you are buying individual stocks that could possibly lose their entire value).  
