@@ -22,19 +22,19 @@ For most of us, trying to beat the market (especially over the long term) is a r
 - Past performance hold no bearing on future performance
 - Investments with higher returns usually have much higher risks.
 
-#### Value Investing:
+> #### Value Investing:
 
-Note: Ok, so there are some investors who have beaten the market average over the long term (like Warren Buffett) through value investing.  Value investing involves buying companies’ stock whose price is much lower than it should be based on their revenue and assets, and then buying and holding them over the long term.  However, this takes serious research and a little luck, and is a riskier plan than passive investing (as you are buying individual stocks that could possibly lose their entire value).  
+> Note: Ok, so there are some investors who have beaten the market average over the long term (like Warren Buffett) through value investing.  Value investing involves buying companies’ stock whose price is much lower than it should be based on their revenue and assets, and then buying and holding them over the long term.  However, this takes serious research and a little luck, and is a riskier plan than passive investing (as you are buying individual stocks that could possibly lose their entire value).  
+> 
+> Value investors – like everyone else – cannot time the market.  However, they give themselves a “buffer” to make it easier to gain a profit (i.e. by buying stocks priced at half of what they should be based on revenue/assets).  
+> 
+> If you are interested in learning value investing, I’d recommend reading the following books:
 
-Value investors – like everyone else – cannot time the market.  However, they give themselves a “buffer” to make it easier to gain a profit (i.e. by buying stocks priced at half of what they should be based on revenue/assets).  
-
-If you are interested in learning value investing, I’d recommend reading the following books:
-
-- “[Invested](https://www.amazon.com/gp/product/0062672649/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062672649&linkCode=as2&tag=militaryinv09-20&linkId=4c2ea39286c8aadb3105154c7433833b),” by Danielle Towns (a lightweight book for beginners to learn value investing)
-- “[The Intelligent Investor](https://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060555661&linkCode=as2&tag=militaryinv09-20&linkId=434755be297403b4d3ef3190e687f228),” by Ben Graham (the basis of value investing, by Warren Buffett’s mentor)
-- Anything written by Warren Buffet or his investing partner, Charlie Munger
-
-For now, I have decided that I do not want to spend my time reading the financial reports of companies, so I do not currently practice value investing.  However, for those who carefully research and buy stocks with high upside, there is opportunity to build wealth.
+> - “[Invested](https://www.amazon.com/gp/product/0062672649/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062672649&linkCode=as2&tag=militaryinv09-20&linkId=4c2ea39286c8aadb3105154c7433833b),” by Danielle Towns (a lightweight book for beginners to learn value investing)
+> - “[The Intelligent Investor](https://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060555661&linkCode=as2&tag=militaryinv09-20&linkId=434755be297403b4d3ef3190e687f228),” by Ben Graham (the basis of value investing, by Warren Buffett’s mentor)
+> - Anything written or said by Warren Buffet or his investing partner, Charlie Munger
+> 
+> For now, I have decided that I do not want to spend my time reading the financial reports of companies, so I do not currently practice value investing.  However, for those who carefully research and buy stocks with high upside, there is opportunity to build wealth.
 
 -------
 
@@ -49,9 +49,7 @@ Instead of trying to beat the market, you can follow the market by investing in 
 > “I think a lot of people are trying to get clever and time the market. The reality is, it’s time in the market, not timing the market.”
 > Bank of America Vice Chairman, Keith Banks
 
-With this in mind, it is most important to invest early.  **Time in the market is more important than timing the market.**  If you have a long time before you are retiring, you should be investing early and often.  If you haven’t already, start by investing automatically every month. If you are still in the military, make sure you are investing part of your paycheck into TSP every month ([follow the instructions in Step 3 in this post](https://militaryinvestor.org/2021/08/23/the-step-by-step-guide-to-passive-military-investing/)) and/or into a Roth IRA. If you are using a Roth IRA, buy no-load, low-cost index funds.
-
-**FIX LINK**
+With this in mind, it is most important to invest early.  **Time in the market is more important than timing the market.**  If you have a long time before you are retiring, you should be investing early and often.  If you haven’t already, start by investing automatically every month. If you are still in the military, make sure you are investing part of your paycheck into TSP every month ([follow the instructions in Step 3 in this post](https://www.militaryinvestor.org/Step-by-Step-Guide-to-Passive-Military-Investing/)) and/or into a Roth IRA. If you are using a Roth IRA, buy no-load, low-cost index funds.
 
 The trick is to continue to buy and hold index funds every month… even if the market is down. When the market is down, stocks go on sale. When the market is up, your investments will continue to grow in value. Either way, you have to dedicate yourself to saving and investing in your future wealth. If you build a solid investment plan and then stick to it, you are preparing to win over the long term.  
 
