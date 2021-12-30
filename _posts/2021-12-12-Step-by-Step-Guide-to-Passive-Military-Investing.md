@@ -8,14 +8,14 @@ featured: true
 hidden: true
 ---
 
-> “Investing is not nearly as difficult as it looks. Successful investing involves doing a few things right and avoiding serious mistakes.”
-> John C. “Jack” Bogle, Founder of Vanguard
-
 **BLUF:** Here are my 7 steps to military investing. Get your TSP matching and eliminate consumer debts. Then, start small (1%) and buy Lifecycle funds (in TSP) or _no-load, low-cost total market index funds_ (in an IRA or Roth IRA). Step up your investments each month, and diversify. Then, keep buying and holding… and don’t panic sell!
 
 _Updated: 17 Dec 2021_
 
 *[TSP]: Thrift Savings Plan
+
+> “Investing is not nearly as difficult as it looks. Successful investing involves doing a few things right and avoiding serious mistakes.”
+> John C. “Jack” Bogle, Founder of Vanguard
 
 Investing can be complicated. But, the truth is that you don’t have to rely on complicated investment strategies to build a nest egg for your future. By following a simple passive investing method, you can slowly and steadily create wealth. Investing in index funds can allow your money to grow much faster than inflation (over the long term) through the magic of compound interest.
 
