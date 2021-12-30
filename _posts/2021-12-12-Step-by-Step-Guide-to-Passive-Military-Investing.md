@@ -58,7 +58,7 @@ For more explanation, read more about [Eliminating Your Consumer Debts](https://
 
 ### Step 3: Start investing small (1%)
 <div id="step-3"></div>
-![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){: width = 300 }
+![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){ width:300; }
 
 Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
 
@@ -106,7 +106,7 @@ For my take on diversification, read more on how to [Diversify](https://www.mili
 
 ### Step 7: Keep Buying and Holding… Don’t Panic Sell!
 <div id="step-7"></div>
-![Diversify](../assets/images/2021-12-21-Step-7-Buy-and-Hold.png)
+![Buy and Hold](../assets/images/2021-12-21-Step-7-Buy-and-Hold.png)
 
 Tip: Don't panic when the market drops.  Continue buying and holding until you retire.
 
