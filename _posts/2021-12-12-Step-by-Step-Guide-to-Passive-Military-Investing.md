@@ -58,7 +58,9 @@ For more explanation, read more about [Eliminating Your Consumer Debts](https://
 
 ### Step 3: Start investing small (1%)
 <div id="step-3"></div>
+<div style="width:300px">
 ![Start Investing Small](../assets/images/2021-12-17-Military-Investing-Step-3-Start-Small.png){: width=300 }
+</div> 
 
 Tip: Start investing a tiny amount right now!  If you don't know where to start, invest in your Thrift Savings Plan (TSP).  If you aren't eligible to use the TSP, start a Roth Individual Retirement Account (Roth IRA).
 
