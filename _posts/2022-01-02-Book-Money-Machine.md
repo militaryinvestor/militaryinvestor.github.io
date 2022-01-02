@@ -11,7 +11,7 @@ hidden: false
 
 *Bottom Line Up Front (BLUF):* Value investors see stocks as “money machines” that churn out dividend payments.  Buy stocks based on how much those dividend payments are worth to you over the long run.
 
-—----
+-------
 
 Gary Smith’s book, “Money Machine: The Surprisingly Simple Power of Value Investing,” discusses the benefits of _value investing_ and methods for putting it into action.  Where Gary Smith’s book diverges from his value investing peers is his mindset.  He views stocks as _money machines_ whose whole purpose is to churn out dividend payments.  Instead of being concerned about the stock’s value going up (so you can sell it for a profit), instead you should ask how much you would pay to get those dividend payments.  This is the opposite of speculative investments (like growth stocks and cryptocurrency), where you are often buying in hopes that the sale price will go up.
 
@@ -74,6 +74,8 @@ There are a number of things to consider before you buy a stock, even if the pre
 I have pages of notes from reading this book (and hope to read it again soon).  This book is a treasure trove of value investing knowledge, and can help you think about investing in the right way.  My only complaint about it is that as an audiobook, it was exceptionally difficult to understand how to actually calculate the value of a stock.  
 
 If you are a beginner investor, I’d recommend steering towards something like [Danielle Town’s “Invested”](https://www.amazon.com/Invested-Warren-Buffett-Charlie-Emotions/dp/0062672649?source=ps-sl-shoppingads-lpcontext&psc=1) before trying to tackle this material.
+
+--------
 
 In truth, I’m just beginning my value investing journey (I’m invested nearly 100% in index funds). I’m intrigued with the idea of investing in individual companies.  However, hopefully this shows that value investing requires a significant amount of research to do correctly.  
 
