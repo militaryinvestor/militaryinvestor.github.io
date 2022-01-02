@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Chat TEst
-permalink: /about
+permalink: /test
 comments: true
 ---
 
