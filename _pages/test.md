@@ -29,10 +29,10 @@ More words
 More words
 
 <div class="chat-popup" id="myForm">
-  <form action="/" class="form-container">
+  <form action="/test.php" class="form-container">
     <h1>Chat test</h1>
 
-    <iframe src='https://webchat.botframework.com/embed/languagesvc-bot?s=LGrrg8P2dl0.uhfhRA3J_L3AUVOYdCg66k0-I2PqnRbbPj0vM_pivLk'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+    <iframe src='https://webchat.botframework.com/embed/languagesvc-bot?s=LGrrg8P2dl0.uhfhRA3J_L3AUVOYdCg66k0-I2PqnRbbPj0vM_pivLk'  style='min-width: 200px; width: 50%; min-height: 400px;'></iframe>
 
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
   </form>
