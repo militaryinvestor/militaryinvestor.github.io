@@ -4,7 +4,7 @@ title:  "Book Review – “Money Machine: The Surprisingly Simple Power of Valu
 author: ken
 categories: [ Books, Value Investing ]
 image: assets/images/2022-01-02-Book-Money-Machine.jpg
-rating: 4
+rating: 4.5
 featured: false
 hidden: false
 ---
@@ -56,11 +56,9 @@ Total annual return = ( annual dividend / current stock price) + annual rate of 
 Take the P/E ratios of the last 10 years (adjusted for inflation), then take their average to see their adjusted P/E.
 - [Shiller PE Ratio (multpl.com)](https://www.multpl.com/shiller-pe)
 
-Beyond this, there are some other things to look for (in the company’s financial statements they give to the SEC) that need to be considered:
-
 #### Some other things to look at before you buy
 
-There are a number of things to consider before you buy a stock, even if the previous calculations make it seem like a good investment.  Here are a few suggestions from Gary Smith's book:
+There are a number of things to consider before you buy a stock, even if the previous calculations make it seem like a good investment.  Using the financial statements that companies must submit to the SEC, you can review a company's finances to determine their value.  Here are a few suggestions of what to look for from Gary Smith's book:
 
 - Companies should own twice as much as they owe (current assets vs. liabilities).  Compare their assets vs. liabilities against other companies in the same industry
 - Check whether their assets vs. liability ratio is getting better or worse
