@@ -18,4 +18,5 @@ I'm also migrating this site and its content over to Github Pages, which should 
 
 **UPDATE:** I've migrated nearly all of the content from my old blog, though some content is from an older backup.  I will still be heavily editing this content, but at least the old content has been recovered.  More to come!
 
+**UPDATE #2:** The site is back up and running.  New content is on its way!
 
