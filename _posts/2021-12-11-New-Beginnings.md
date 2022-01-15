@@ -4,8 +4,8 @@ title:  "New Beginnings"
 author: ken
 categories: [ Site News ]
 image: assets/images/2021-12-11-New-Beginnings.png
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 My original Wordpress-based website imploded. However, this outage has given me some time to re-assess the content I was writing, and I've decided to re-write my previous posts to make them easier to understand.  
