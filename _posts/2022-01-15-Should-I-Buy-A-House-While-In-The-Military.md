@@ -16,7 +16,7 @@ Shortly after, life happened.  Due to a family emergency, we PCS’d to another 
 
 The question is, having lived a terrible home ownership experience, do I still think that buying a house in the military is a good investment?  **Yes, I do.  But, you have to buy smart, or don’t buy at all.**
 
-!!!!Why did I lose money?
+####Why did I lose money?
 
 > “‘Real estate investing, even on a very small scale, remains a tried and true means of building an individual’s cash flow and wealth.” – Robert Kiyosaki, Author of _Rich Dad, Poor Dad_
 
@@ -26,7 +26,7 @@ Since then, we’ve made better decisions.  It took several years, but we eventu
 
 ------------
 
-!!!!What I’ve learned about buying and selling houses in the military
+####What I’ve learned about buying and selling houses in the military
 
 Learn from my mistakes.  Here are some of the lessons I learned the hard way:
 
@@ -65,7 +65,7 @@ With all of these negative things to think about, why would anyone buy a house? 
 
 -------
 
-!!!!What do I recommend?
+####With all that said, what do I recommend you do?
 
 **Buying a house is typically a good investment… but you have to be picky about the house you buy.**  It needs to be in generally good condition, and in a good neighborhood that you feel safe living in.  And, it needs to be a reasonable price that you can afford without straining your family’s budget.
 
