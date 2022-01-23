@@ -16,7 +16,7 @@ Before I really became serious about my finances, I didn't understand taxes.  My
 
 For example, _tax brackets_.  In the U.S., we have tax brackets where if you make more money, you pay a higher rate (percentage) of your income in taxes:  
 
-#### Tax Brackets for 2021
+#### Tax Brackets for 2021 (Source: [NerdWallet](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets))
 
 | Tax Rate | Single People (or Married Filing Separately) | Married Filing Jointly (most married people) | Heads of Household |
 |-------|--------|---------|--------|
@@ -28,7 +28,6 @@ For example, _tax brackets_.  In the U.S., we have tax brackets where if you mak
 | 35% | $209,425 to $523,600 | $418,850 to $628,300 | $209,400 to $523,600 | 
 | 37% | Over $523,600 | Over $628,300 | Over $523,600 | 
 
-Source: [NerdWallet](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets)
 -------------
 
 In short: The more you make, the larger percentage of your income you pay in taxes.  
