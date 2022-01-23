@@ -28,7 +28,9 @@ For example, _tax brackets_.  In the U.S., we have tax brackets where if you mak
 | 35% | $209,425 to $523,600 | $418,850 to $628,300 | $209,400 to $523,600 | 
 | 37% | Over $523,600 | Over $628,300 | Over $523,600 | 
 
-The more you make, the larger percentage of your income you pay in taxes.  
+-------------
+
+In short: The more you make, the larger percentage of your income you pay in taxes.  
 
 Simple, huh?  Not quite.  I've heard a lot of people misunderstand how this works.  They think that they pay whatever their highest tax rate is on all of their earnings... but this is wrong.  **Instead, you pay the tax rate for each _bucket_ of earnings.**  For example, if you are single making $10,000 a year, you'd pay 10% tax on the first $9,950... but you'd pay 12% tax on the rest of your income.
 
@@ -36,7 +38,7 @@ If this seems strange, think of tax brackets as literal buckets.
 
 If you are single, your 10% bucket only holds $9,950.  Once you fill that up, you start filling up your 12% bucket.  Once you fill up your 12% bucket (by making more than $40,525), then you start filling up your 22% bucket.    
 
-![Tax Brackets as buckets](assets/images/2022-01-23-Tax-Brackets-1.png)
+![Tax Brackets as buckets](https://militaryinvestor.org/assets/images/2022-01-23-Tax-Brackets-1.png)
 
 **This means that you don't pay your highest tax rate on all of your earnings.**  Instead, you pay the tax rate for each _bucket_ of earnings.
 
