@@ -50,10 +50,12 @@ The other part of this you have to know is that your tax rates are based on your
 
 Why does this matter?  Well, I've heard people say that they would refuse a pay raise if it put them in a higher tax bracket.  Or, they said that they didn't want to go after a higher salary for the same reason.  
 
-These are really bad decisions.  **If a raise puts you just one dollar over your current tax bracket, only that extra dollar is taxed at the next higher tax rate!**  The higher tax brackets just mean that the extra your earn (not your existing earnings) could be taxed at a higher rate. 
+These are really bad decisions.  **If a raise puts you just one dollar over your current tax bracket, only that extra dollar is taxed at the next higher tax rate!**  Moving into a higher tax bracket just mean that some of the extra you earn (not all of your earnings) could be taxed at a higher rate. 
 
 #### However, taxes do matter
 
-Turning down a raise is a bad way to pay less taxes.  However, maximizing your tax deductions is a smart way to lower your taxes.  
+Turning down a raise is a bad way to pay less taxes.  However, maximizing your tax deductions is a smart way to lower your taxes.  Finding legal ways to reduce your taxable income should be a priority for anyone, but especially for those in higher tax brackets.
 
-Also, investing in a Roth IRA or IRA (or in your TSP or Roth TSP) can keep you from getting an unexpected tax bill from investing in a _brokerage account_.  I'll break down the potential pitfalls of long and short-term _capital gains_ taxes in a future post.
+As an investor, taxes are also a big deal.  For example, selling short-term investments in a regular _brokerage account_ can add to your taxable income (and be taxed at a high rate) vs. a lower _capital gains_ rate for long-term investments.  Also, investing in a Roth IRA or IRA (or in your TSP or Roth TSP) can save you from getting an unexpected tax bill.  
+
+I'll break down the potential pitfalls of long and short-term capital gains taxes in a future post.
