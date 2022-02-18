@@ -8,11 +8,11 @@ featured: false
 hidden: false
 ---
 
-*Bottom Line Up Front (BLUF):* If you are married and your spouse doesn't work (and you file taxes jointly), you can _both_ invest in IRAs or Roth IRAs.  This means, your family can invest $6,000/year in your IRA, and $6,000/year in your spouse's IRA!  
+*Bottom Line Up Front (BLUF):* If you are married and your spouse is a stay-at-home parent/homemaker (and you file taxes jointly), you can _both_ invest in IRAs or Roth IRAs.  This means, your family can invest $6,000/year in your IRA, and $6,000/year in your spouse's IRA!  
 
 -------
 
-Many military households are single-income, where the service member is the sole breadwinner.  If you fall into this situation, did you know that your spouse can still invest up to $6,000/year in their own IRA or Roth IRA?
+Many military households are single-income where the service member is the sole breadwinner.  If you fall into this situation, did you know that your spouse can still invest up to $6,000/year in their own IRA or Roth IRA?
 
 -------
 
