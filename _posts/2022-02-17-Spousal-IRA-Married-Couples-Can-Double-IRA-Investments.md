@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-*Bottom Line Up Front (BLUF):* If you are married and your spouse is a stay-at-home parent/homemaker (and you file taxes jointly), you can _both_ invest in IRAs or Roth IRAs.  This means, your family can invest $6,000/year in your IRA, and $6,000/year in your spouse's IRA!  
+*Bottom Line Up Front (BLUF):* If you are married and your spouse has no income (and you file taxes jointly), you can _both_ still invest in IRAs or Roth IRAs.  This means, your family can invest $6,000/year in your IRA and $6,000/year in your spouse's IRA!  
 
 -------
 
