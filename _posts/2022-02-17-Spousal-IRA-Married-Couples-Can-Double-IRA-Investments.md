@@ -24,7 +24,7 @@ For more info, read this post [about the differences between IRAs and Roth IRAs]
 
 #### What is a Spousal IRA?
 
-A Spousal IRA allows you to invest up to $6,000/year in your spouse's IRA retirement account, even if they do not have any income.  So, if you spouse is a stay-at-home parent, they can still invest $6,000/year in their account.  At the same time, you can still invest another $6,000/year in your account.  
+A Spousal IRA allows you to invest up to $6,000/year in your spouse's IRA retirement account, even if they do not have any income.  So, if you spouse is a stay-at-home parent, they can still invest $6,000/year in their account.  At the same time, you can invest another $6,000/year in your account.  
 
 To invest in a Spousal IRA, your family must file your taxes as "married filing jointly".
 
@@ -40,15 +40,15 @@ Yes.  You can create a Roth IRA for your Spouse.  This allows you to invest mone
 
 #### Why does this matter?
 
-*If you opt to create a Spousal IRA for your spouse, then your household can invest up to $12,000/year in IRAs* - $6,000/year for you, and $6,000/year for your spouse - instead of just $6,000/year.  
+**If you opt to create a Spousal IRA for your spouse, then your household can invest up to $12,000/year in IRAs** - $6,000/year for you, and $6,000/year for your spouse - instead of just $6,000/year.  
 
-This increases the total amount of money you can invest in tax-advantaged accounts, maximizing your family's ability to increase wealth.  
+This increases the total amount of money you can invest in tax-advantaged accounts, increasing your family's ability to build wealth.
 
 -------
 
 #### How do I create a Spousal IRA?
 
-A Spousal IRA is just a regular IRA.  However, it must be created under your spouse's name.  You can open an IRA the same way you did yours, such as with [Schwab](https://www.schwab.com/), [Vanguard](https://investor.vanguard.com/home), or [TD Ameritrade](https://www.tdameritrade.com/).
+A Spousal IRA is just a regular IRA.  However, it must be created under your spouse's name.  You can open an IRA the same way you opened yours, preferrably through a low-cost brokerage such as [Schwab](https://www.schwab.com/), [Vanguard](https://investor.vanguard.com/home), or [TD Ameritrade](https://www.tdameritrade.com/).
 
 You'll likely have to create it in a separate account (with a separate login) for your spouse.  
 
