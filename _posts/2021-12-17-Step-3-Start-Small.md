@@ -22,7 +22,7 @@ This post is part of the "[Step-by-Step Guide to (Passive) Military Investing" s
 
 ---------
 
-The main choice is, do you start investing in the Thrift Savings Plan (TSP) or an Individual Retirement Account (IRA) or Roth IRA? If you are just getting started and are in the military or government service, I’d recommend the TSP. It is probably the easiest way to get started investing. Also, you can contribute much more to TSP([$19,500/year](https://www.tsp.gov/makingcontributions/contribution-limits/)) than into an IRA or Roth IRA ([$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits).
+The main choice is, do you start investing in the Thrift Savings Plan (TSP) or an Individual Retirement Account (IRA) or Roth IRA? If you are just getting started and are in the military or government service, I’d recommend the TSP. It is probably the easiest way to get started investing. Also, you can contribute much more to TSP([$20,500/year](https://www.tsp.gov/making-contributions/)) than into an IRA or Roth IRA ([$6,000/year](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits).
 
 #### Step 3A: Thrift Savings Plan (TSP):
 

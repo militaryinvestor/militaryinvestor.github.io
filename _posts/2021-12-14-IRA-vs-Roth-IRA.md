@@ -29,7 +29,7 @@ text=Your%20required%20minimum%20distribution%20is,before%20January%201%2)
 - No mandatory distributions. The government already taxed your contributions, so you don’t have to take mandatory distributions on a Roth IRA.
 - Income limits. If you make too much money, you can’t contribute to a Roth IRA. The rules are complicated, but as long as you make $125,000 (if single) or $198,000 (if married who file joint taxes), you should be fine. [Check the IRS website](https://www.irs.gov/retirement-plans/amount-of-roth-ira-contributions-that-youcan-make-for-2021) for details.
 
-**Note:** Investments in all of your IRAs and Roth IRAs in one year can be up to a maximum of $6,000 ([as of 2021](https://www.irs.gov/retirementplans/individual-retirement-arrangements-iras)). There are extra rules (such as for married couples and those over 50 years old), so make sure you look into them if you want to invest more than this amount.
+**Note:** Investments in all of your IRAs and Roth IRAs in one year can be up to a maximum of $6,000 ([as of 2021](https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras)). There are extra rules (such as for married couples and those over 50 years old), so make sure you look into them if you want to invest more than this amount.
 
 Because military members, especially enlisted members, are often in a very low tax bracket, a Roth IRA can make the most sense. **If you don’t know which to pick, pick the Roth IRA (if you meet the income limits) for now.**
 
