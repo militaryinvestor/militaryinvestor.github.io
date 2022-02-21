@@ -58,4 +58,6 @@ Turning down a raise is a bad way to pay less taxes.  However, maximizing your t
 
 As an investor, taxes are also a big deal.  For example, selling short-term investments in a regular _brokerage account_ can add to your taxable income (and be taxed at a high rate) vs. a lower _capital gains_ rate for long-term investments.  Also, investing in a Roth IRA or IRA (or in your TSP or Roth TSP) can save you from getting an unexpected tax bill.  
 
-I'll break down the potential pitfalls of long and short-term capital gains taxes in a future post.
+----------
+
+**UPDATE (21 Feb 2022):** Read this new post for more information about [how capital gains are taxed](https://www.militaryinvestor.org/Long-Term-vs-Short-Term-Capital-Gains/).
