@@ -75,7 +75,7 @@ For more explanation, read more about how to [Start Investing Small (1%)](https:
 
 Tip: Once you have money in your investment accounts, start buying TSP Funds or Index Funds.
 
-In a TSP, the easiest way to start is to buy Lifecycle "L" Funds.  In an IRA or Roth-IRA, buy _No-Load, Low-Fee Total Market Index Funds_.
+In a TSP, the easiest way to start is to buy Lifecycle "L" Funds (at least, to start).  In an IRA or Roth-IRA, buy _No-Load, Low-Fee Total Market Index Funds_.
 
 For more explanation, read more about how to [Buy Investments](https://www.militaryinvestor.org/Step-4-Buy-Investments/).
 
