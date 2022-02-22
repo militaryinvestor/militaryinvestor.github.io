@@ -2,7 +2,7 @@
 layout: post
 title:  "Spousal IRAs: How Married Couples Can Double Their IRA Investments"
 author: ken
-categories: [ Invest, Simple ]
+categories: [ Investing, Simple ]
 image: assets/images/2022-02-17-Spousal-IRA.png
 featured: false
 hidden: false
