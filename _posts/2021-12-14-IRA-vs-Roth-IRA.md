@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-**Bottom Line Up Front (BLUF):** Both IRAs and Roth IRAs are _tax advantaged_ (vs. investing in a brokerage account).  IRAs are tax-deffered (you get a tax write-off this year) but pay taxes on the gains later, while Roth IRAs are taxed now (no tax write-off) but you never pay taxes again on the gains.  But Roth IRAs let you withdraw your contributions (after 5 years) before retirement without penalties and don't require mandatory distributions (your money can grow longer).
+**Bottom Line Up Front (BLUF):** Both IRAs and Roth IRAs are _tax advantaged_ (vs. investing in a brokerage account).  IRAs are tax-deffered (you get a tax write-off this year) but pay taxes on the gains later, while Roth IRAs are taxed now (no tax write-off) but you never pay taxes again on the gains.  But Roth IRAs let you withdraw your contributions  before retirement without penalties and don't require mandatory distributions (your money can grow longer).
 
 So, what is the difference between an Individual Retirement Account (IRA) and a Roth IRA?
 
