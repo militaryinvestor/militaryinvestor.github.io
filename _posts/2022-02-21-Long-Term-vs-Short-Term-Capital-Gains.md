@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-*Bottom Line Up Front (BLUF):* You pay capital gains taxes on investment gains each year (but not in Roth IRA, IRA, 401K, or TSP).  Long Term Capital Gains insurance are taxed in tiers (i.e. buckets), starting at 0% with many paying 15%.  Short Term Capital Gains are taxed as regular income (usually at a higher tax rate than long term gains). 
+*Bottom Line Up Front (BLUF):* You pay capital gains taxes on investment earnings/profits each year (but not in Roth IRA, IRA, 401K, or TSP).  Long Term Capital Gains insurance are taxed in tiers (i.e. buckets), starting at 0% with many paying 15%.  Short Term Capital Gains are taxed as regular income (usually at a higher tax rate than long term gains). 
 
 -------
 
@@ -32,7 +32,7 @@ Capital Gains = investment profits
 
 **If your money is in a Roth IRA or Roth TSP, you won't pay any taxes at all on your investment gains!**  (It's why these are considered such critical parts of your retirement plan.)  
 
-What's the trade-off?  You take penalties if you pull money of out retirement accounts too early.  With the exception of Roth IRAs
+What's the trade-off?  You take penalties if you pull money of out retirement accounts too early.  The exception is with a Roth IRA, which allows you to pull out your _contributions_ (i.e. only the money you put in, not the investment earnings/profits) before retirement age.
 
 Read this article [about the tax benefits of IRAs and Roth IRAs](https://www.militaryinvestor.org/IRA-vs-Roth-IRA/) for more details.
 
