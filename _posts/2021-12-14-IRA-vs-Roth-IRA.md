@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-**Bottom Line Up Front (BLUF):** Both IRAs and Roth IRAs are _tax advantaged_ (vs. investing in a brokerage account).  IRAs are tax-deffered (you get a tax write-off this year) but pay taxes on the gains later, while Roth IRAs are taxed now (no tax write-off) but you never pay taxes again on the gains.  But Roth IRAs let you withdraw your contributions (after 5 years) before retirement without penalties and don't require mandatory distributions (your money can grow longer).
+**Bottom Line Up Front (BLUF):** Both IRAs and Roth IRAs are _tax advantaged_ (vs. investing in a brokerage account).  IRAs are tax-deffered (you get a tax write-off this year) but pay taxes on the gains later, while Roth IRAs are taxed now (no tax write-off) but you never pay taxes again on the gains.  But Roth IRAs let you withdraw your contributions  before retirement without penalties and don't require mandatory distributions (your money can grow longer).
 
 So, what is the difference between an Individual Retirement Account (IRA) and a Roth IRA?
 
@@ -24,7 +24,7 @@ They are both investment accounts that have special tax rules that will help you
 **Roth IRA:**
 - **Contributions are taxed.** You do not get a tax deduction for money you contribute
 - Distributions are tax free. However, your withdrawals at retirement are not taxed.  This includes dividends from stocks and bonds, and all the gains you’ve accumulated.
-- You can withdraw contributions tax and penalty free. You can withdraw the money you contributed at any time without taxes or penalties, as long as you've had the Roth IRA account [for at least 5 years](https://www.investopedia.com/ask/answers/05/waitingperiodroth.asp). However, you will be taxed (and possibly penalized 10%) if you withdraw your gains (i.e. anything above the amount you transferred into the account) before retirement, or unless it is a special qualified purchase. [Schwab](https://www.schwab.com/ira/roth-ira/withdrawal-rules) breaks down these rules on their website.
+- You can withdraw contributions tax and penalty free. You can withdraw the money you contributed at any time without taxes or penalties. However, you will be taxed (and possibly penalized 10%) if you withdraw your gains (i.e. anything above the amount you transferred into the account) before retirement, unless it is a special qualified purchase. [Schwab](https://www.schwab.com/ira/roth-ira/withdrawal-rules) breaks down these rules on their website.
 - No mandatory distributions. The government already taxed your contributions, so you don’t have to take mandatory distributions on a Roth IRA.
 - Income limits. If you make too much money, you can’t contribute to a Roth IRA. The rules are complicated, but as long as you make $129,000 (if single) or $204,000 (if married who file joint taxes) as of 2022, you should be fine. [Check the IRS website](https://www.irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2022) for details.
 
