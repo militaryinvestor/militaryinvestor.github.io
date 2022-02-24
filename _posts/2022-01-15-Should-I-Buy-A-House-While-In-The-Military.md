@@ -14,7 +14,7 @@ Story time!  A couple years into my military career, my wife and I bought a hous
 
 Shortly after, life happened.  Due to a family emergency, we PCS’d to another base a year later.  That was 2006... just as the housing market collapsed.  Suddenly, we were _underwater_ on our loan and couldn’t sell.  As a result, we were forced to rent it out for less than we owed each month… an arrangement that lasted over 10 years.  It wasn’t until recently that we were able to refinance.  We just listed the house for sale, and we’re looking forward to putting this chapter of our financial life behind us.
 
-The question is, having lived a terrible home ownership experience, do I still think that buying a house in the military is a good investment?  **Yes, I do.  But, you have to buy smart, or don’t buy at all.**
+The question is, having lived a terrible home ownership experience, do I still think that buying a house in the military is a good investment?  **Yes, I do.  But, you need to buy smart, or don’t buy at all.**
 
 #### Why did I lose money?
 
