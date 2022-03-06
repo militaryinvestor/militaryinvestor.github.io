@@ -12,7 +12,7 @@ hidden: false
 
 -------
 
-*Note: I am not a financial advisor, and I'm definitely not your financial advisor.  If you have the means to do so, seeking help from a _fee-only financial advisor_ about your personal financial situation can make a huge difference.  However, learning how to invest can help you protect your family's own finances.*  
+*Note: I am not a financial advisor, and I'm definitely not your financial advisor.  If you have the means to do so, seeking help from a fee-only financial advisor about your personal financial situation can make a huge difference.  However, learning how to invest can help you protect your family's own finances.*  
 
 --------
 
