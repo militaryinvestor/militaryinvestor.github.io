@@ -60,7 +60,7 @@ J.P. Morgan's article is an excellent read, and details even more reasons why it
 
 If you go to any crypto subreddit, you'll see similar appeals to "HODL" (Hold On for Dear Life) and to always "buy the dip".  However, there is a serious difference between individual cryptocurrencies and diversified index funds.  Like with individual stocks (but worse), buying more of the same crypto does not always pay off.  With the insane upside of crypto comes insane risk.  Part of this is because, unlike stocks or index funds, cryptocurrencies do not represent a portion of a company.  Without underlying assets or profits, nothing makes it more likely that a cryptocurrency will recover its previous value.
 
-Unlike crypto, stocks have inherent value.  Their values are based on the assets, debts, and perceived profitability of an actual companies.  Better yet, index funds buy a diverse group  Crypto prices do not share this fundamental financial basis.     
+Unlike crypto, stocks have inherent value.  Their values are based on the assets, debts, and perceived profitability of an actual companies.  Better yet, index funds buy a diverse group  Crypto prices do not share this fundamental financial basis.      
 
 
 
