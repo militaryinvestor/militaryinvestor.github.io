@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-**Bottom Line Up Front (BLUF):**  Don't panic!  Selling after a drop in the stock market just locks in your losses.  When the market drops, stocks go on sale.  The stock market has historically always recovered and more.  Recommend holding your current stocks, and then buying more while they are cheap!  
+**Bottom Line Up Front (BLUF):**  Don't panic!  Selling after a drop in the stock market just locks in your losses.  When the market drops, stocks go on sale.  The stock market has historically always recovered and more.  Stop checking your account balance and stick to your plan.  
 
 -------
 
@@ -35,12 +35,12 @@ I say no.  Better yet, if you want to buy more shares, they just went on sale.
 J.P. Morgan recently released an article in February 2022 called "[The case for (always) staying invested](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)."  It shows that most investors are their own worst enemy.  For example, they show that most investors underperformed S&P 500 index (2.9% vs. 7.5%) and even a conservative 60/40 split of stock/bond index funds (2.9% vs. 6.4%).  Though the article primarily highlights that investors do not diversify enough (by failing to use index funds), market timing also affects these poor returns.
 
 ![Diversification](../assets/images/2022-03-06-Don't-Panic-infographic.jpg)
-[Source](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
+[Source: J.P. Morgan](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
 
 Furthermore, this article shows (as do several other investing books) that exiting the market for just a few good days can greatly cut your investment profits.  In the chart below, it shows that (over the last 20 years) being fully invested in the S&P index would've earned you a 9.4% return.  **However, just missing the 10 best days in the market would've cut your return by _nearly half_ (to 5.21%).**  
 
 ![Stay Invested Chart](../assets/images/2022-03-06-Don't-Panic-infographic-2.jpg)
-[Source](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
+[Source: J.P. Morgan](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
 
 The stock market dips and rises randomly from day to day.  Though a handful of lucky people might exit the market just before one downturn and re-enter before the next upswing, almost everyone who tries will fail.  Worse, [no one can time the market consistently](https://hemmingwm.com/our-services/timing-the-markets).  **Because we are unable to know the future, trying to time the market can cost you.**  
 
