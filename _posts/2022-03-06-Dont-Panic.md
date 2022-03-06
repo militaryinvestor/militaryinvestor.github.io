@@ -32,12 +32,12 @@ I say no.  Better yet, if you want to buy more shares, they just went on sale.
 
 #### Why You Shouldn't Sell (if you believe in the market)
 
-J.P. Morgan recently released an article in February 2022 called "[The case for (always) staying invested](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)."  It makes the point that most investors are their own worst enemy.  For example, they show that most investors underperformed S&P 500 index (2.9% vs. 7.5%) and even a conservative 60/40 split of stock/bond index funds (2.9% vs. 6.4%).  Though the article primarily highlights that investors do not diversify enough (by failing to use index funds), market timing also affects these poor returns.
+J.P. Morgan recently released an article in February 2022 called "[The case for (always) staying invested](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)."  It shows that most investors are their own worst enemy.  For example, they show that most investors underperformed S&P 500 index (2.9% vs. 7.5%) and even a conservative 60/40 split of stock/bond index funds (2.9% vs. 6.4%).  Though the article primarily highlights that investors do not diversify enough (by failing to use index funds), market timing also affects these poor returns.
 
 ![Diversification](../assets/images/2022-03-06-Don't-Panic-infographic.jpg)
 [Source](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
 
-Furthermore, this article shows - as do several other investing books - that exiting the market for just a few days can greatly cut your investment profits.  In the chart below, it shows that (over the last 20 years) that being fully invested in the S&P index would've earned you a 9.4% return.  **However, just missing the 10 best days in the market would've cut your return by _nearly half_ to 5.21%.**  
+Furthermore, this article shows (as do several other investing books) that exiting the market for just a few good days can greatly cut your investment profits.  In the chart below, it shows that (over the last 20 years) being fully invested in the S&P index would've earned you a 9.4% return.  **However, just missing the 10 best days in the market would've cut your return by _nearly half_ (to 5.21%).**  
 
 ![Stay Invested Chart](../assets/images/2022-03-06-Don't-Panic-infographic-2.jpg)
 [Source](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)
@@ -46,13 +46,13 @@ The stock market dips and rises randomly from day to day.  Though a handful of l
 
 #### What works for most people
 
-If you don't need your money yet, in principle it is best not to sell when the market drops. Instead, **stick to your plan and continue to invest regularly.**  If you have a good long-term strategy, understand that your focus isn't the day-to-day changes in the market, but instead on building wealth over a lifetime.
+If you don't need your money yet, in principle it is best not to sell when the market drops. **Instead, stick to your plan and continue to invest regularly.**  If you have a good long-term strategy, understand that your focus isn't the day-to-day changes in the market, but instead on building wealth over a lifetime.
 
-Personally, I'd also suggest not checking your investment balances every day (or even every month).  Studies show that we [feel the emotional pain of losses twice as intensely as the pleasure from gains](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/loss-aversion/#:~:text=Loss%20aversion%20is%20an%20important,as%20the%20pleasure%20of%20gaining.).  So, don't torture yourself and know this is all part of the journey.  
+Personally, I'd also suggest not checking your investment balances every day (or even every month).  Studies show that we [feel the emotional pain of losses twice as intensely as the pleasure from gains](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/loss-aversion/#:~:text=Loss%20aversion%20is%20an%20important,as%20the%20pleasure%20of%20gaining.).  Instead of torturing yourself, spend your time focusing on things other than your investment account balance.  Don't panic and know this is all part of the journey.  
 
 ------------
 
-J.P. Morgan's article is an excellent read, and details even more reasons why it is smart to continue investing through this current downturn.  For more information, you can read it here: "[J.P. Morgan - The case for (always) staying invested](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)."
+*J.P. Morgan's article is an excellent read, and details even more reasons why it is smart to continue investing through this current downturn.  For more information, you can read it here: "[J.P. Morgan - The case for (always) staying invested](https://www.jpmorgan.com/wealth-management/wealth-partners/insights/the-case-for-always-staying-invested)."*
 
 ------------
 
