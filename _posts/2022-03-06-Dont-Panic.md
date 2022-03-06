@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Panic...Stay Invested!"
 author: ken
 categories: [ Investing ]
-image: assets/images/2022-01-23-How-Do-Tax-Brackets-Work.png
+image: assets/images/2022-03-06-Don't-Panic.png
 featured: false
 hidden: false
 ---
