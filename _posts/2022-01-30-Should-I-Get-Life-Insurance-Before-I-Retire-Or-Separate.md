@@ -60,10 +60,10 @@ Ok, so what you have to know is that anyone can call themselves a "Financial Adv
 
 Be careful when researching your options, as many of them are very convincing.  They'll tell you about how whole life saves you from paying taxes on investments.  However, they fail to mention that:
 -  ...you are investing _after-tax_ dollars (so, you are already paying tax on your money).  
-- ...even in a regular brokerage account, you might pay 0% in _capital gains taxes_ ([if you stay under the IRS threshold, and only sell after holding investments for 1 year or longer](https://www.irs.gov/taxtopics/tc409)).  
-- ...the fees/costs of whole life insurance can be closer to 50-90% for the first several years (vs. the 0-15% long-term capital gains tax rate or 22-32% short-term capital gains tax rates that most people might pay).  Instead of paying the IRS, you pay them more instead.
+- ...even in a regular brokerage account, you mighta modest rate of_capital gains taxes_ ([if your income stays below certain IRS thresholds, and only sell after holding investments for 1 year or longer](https://www.irs.gov/taxtopics/tc409)).  
+- ...the fees/costs of whole life insurance can be closer to 50-90% for the first several years (vs. the 0-15% long-term capital gains tax rate or 22-32% short-term capital gains tax rates that most people might pay).  Instead of paying the IRS more, you pay them more instead.
 
-With all of that said, life insurance salespeople are not (all) bad.  I did have some amazing discussions with a couple financial advisors that helped me rethink other parts of my finances.  And, I do have a greater understanding of the types of life insurance.  
+With all of that said, life insurance salespeople are not all bad.  I did have some amazing discussions with a couple financial advisors that helped me rethink other parts of my finances.  And, I do have a greater understanding of the types of life insurance.  
 
 Just be aware that a salesperson's motivations and goals may not align with yours.  If someone is trying hard to sell you something (vs. just telling you what it is), then it is usually not in your best interest.  _Note: Don't buy just because a salesperson talked you into it.  Get the numbers and decide if you understand how it helps your finances.  If you don't understand it, don't invest in it._
 
