@@ -9,18 +9,18 @@ hidden: false
 ---
 _Image by Epic Top 10 Site_
 
-*Bottom Line Up Front (BLUF):*  The TSP's new mutual funds will add investing options with extra fees.  But, beware of these fees and the other risks that come with these new mutual funds.  For most people, investing in the traditional TSP funds (i.e. C & S Funds) is usually a better strategy that comes with lower fees.
+*Bottom Line Up Front (BLUF):*  The TSP's new mutual funds will add investing options, but with extra fees.  Beware of these fees and other risks that come with these new mutual funds.  For most people, investing in the traditional TSP funds (especially the C & S Funds) is usually a better strategy that comes with lower fees.
 
 ------------- 
 
-The Thrift Savings Plan (TSP) is adding mutual fund options, but make sure you understand the added fees that come with deciding to take advantage of these new options.
+The Thrift Savings Plan (TSP) is adding an optional mutual fund window, where you'll be able to invest in hundreds of mutual funds.  However, make sure you understand the added risks that come with these new options.
 
 First, I want to clarify that the current five (5) funds of TSP are not changing at all.  You can still invest in the C, S, I, F, and G funds without paying any extra fees.
 
-However, investing in the new mutual fund window will come with [lots of additional fees](https://www.fedsmith.com/2022/04/07/is-tsp-mutual-fund-window-worth-using/):
+However, investing in the new mutual fund window will come with [additional fees](https://www.fedsmith.com/2022/04/07/is-tsp-mutual-fund-window-worth-using/):
 
 - $150 (or more) in annual maintenance fees
-- $28.75 per trade (i.e. every change you make)
+- $28.75 per trade (i.e. every time you make a change)
 
 **However, there is another type of fee to watch out for: the _expense ratios_ of the mutual funds themselves.**
 
@@ -34,11 +34,11 @@ For more information on some of the added restrictions and potential issues with
 
 #### Why for almost everyone, buying the stock market (or S&P 500) is the best strategy
 
-It is widely reported that around [92% of actively managed funds fail to match the performance of the market](https://www.bankrate.com/investing/active-versus-passive/). So, based purely on math, nearly 9 in 10 people will lose money vs. just sticking to investing in main TSP funds that track the U.S. stock market (i.e. C and S funds).
+It is widely reported that around [92% of actively-managed mutual funds fail to match the performance of the market](https://www.bankrate.com/investing/active-versus-passive/). So, based purely on math, nearly 9 in 10 people will lose money with actively-managed funds vs. just sticking to investing in main TSP funds that track the U.S. stock market (like the C and S funds).
 
-Another [2020 study](https://wealthwatchadvisors.com/wp-content/uploads/2020/03/QAIB_PremiumEdition2020_WWA.pdf) showed the same... that the average equity fund investor significantly failed to keep up with the S&P 500 (i.e. the C fund).  Over a 5 year span, the average invstor earned 7.8% vs. the S&P 500's 11.7%.  Though that doesn't seem like a lot, *this cut their profits from investing by 33%*. 
+Another [2020 study](https://wealthwatchadvisors.com/wp-content/uploads/2020/03/QAIB_PremiumEdition2020_WWA.pdf) showed that the average equity fund investor failed to keep up with the S&P 500 (i.e. the C fund).  Over a 5 year span, the average invstor earned 7.8% vs. the S&P 500's 11.7%.  Though that doesn't seem like a lot, *this is a loss of 33% of their profits*. 
 
-[!Average Equity Fund Investor vs. S&P 500 Index]("../assets/images/2022-04-10 TSP Mutual Funds - 2.png")
+![Average Equity Fund Investor vs. S&P 500 Index](../assets/images/2022-04-10 TSP Mutual Funds - 2.png)
 
 For more information about why buying the market is often the best strategy, read my previous post titled, "[Follow the Market (with Index Funds) vs. Trying to Beat the Market](https://www.militaryinvestor.org/Follow-the-Market/)."
 
