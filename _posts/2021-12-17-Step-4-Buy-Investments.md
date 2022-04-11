@@ -32,7 +32,7 @@ If you have many years until retirement, do not pick the “L Income” fund. Th
 
 You can get fancier, but the L Funds are a good place to start. I personally like to buy the individual funds, as I like the flexibility of deciding my ratios of stock index funds (C, S, and I funds), bond index funds (F fund), and low-risk government securities (G fund) I want to hold. **However, the most important thing is to get your money invested so it can start working for you.**
 
-For more step-by-step directions on how to allocate your funds in the TSP, please check out my previous post, “[Don’t leave your TSP investments (only) in the G Fund](https://www.militaryinvestor.org/Don't-Leave-Your-TSP-Money-Only-in-The-G-Fund/)”.
+For more step-by-step directions on how to allocate your funds in the TSP, please check out my previous post, “[Don’t leave your TSP investments (only) in the G Fund](https://www.militaryinvestor.org/Dont-Leave-Your-TSP-Money-Only-in-The-G-Fund/)”.
 
 #### Step 4B: In an IRA or Roth-IRA, buy _no-load, low-fee total market index funds_
 
