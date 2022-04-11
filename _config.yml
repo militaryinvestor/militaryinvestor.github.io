@@ -4,8 +4,8 @@ title: "Investing Education Specifically for Military Members and Veterans"
 description: "How to Invest: Military Edition"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
-#baseurl: https://www.militaryinvestor.org
+#baseurl: ''
+baseurl: https://www.militaryinvestor.org
 google_analytics: 'G-7CRPGVHDK5'
 #disqus: 'militaryinvestor'
 include: ["_pages"]
