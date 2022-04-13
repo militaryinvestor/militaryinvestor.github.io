@@ -7,9 +7,9 @@ image: assets/images/2022-04-10-TSP-New-Mutual-Funds.png
 featured: false
 hidden: false
 ---
-_Image by Epic Top 10 Site_
-
 *Bottom Line Up Front (BLUF):*  The TSP's new mutual funds will add investing options, but with extra fees.  Beware of these fees and other risks that come with these new mutual funds.  For most people, investing in the traditional TSP funds (especially the C & S Funds) is usually a better strategy that comes with lower fees.
+
+_Image by Epic Top 10 Site_
 
 ------------- 
 
