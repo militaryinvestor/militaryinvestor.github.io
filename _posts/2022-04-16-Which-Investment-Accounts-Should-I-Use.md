@@ -136,4 +136,4 @@ The options above are not every type of investment that exists, just those that 
 
 ### Conclusion
 
-I hope this article is useful for those who are new to investing and trying to decide what type of accounts to use first, second, etc.  I recommend fully funding your retirement first - in Roth IRA and Roth TSP - before branching out into other types of investment accounts.  
+I hope this article is useful for those who are trying to decide what type of investment accounts to use first, second, etc.  I recommend fully funding your retirement first - in Roth IRA and Roth TSP - before branching out into other types of investment accounts.  
