@@ -53,7 +53,7 @@ For step-by-step instructions on how to start your TSP contributions, please see
 
 ---------------
 
-### 2. Roth IRA - Max it out ($6,000/year)!
+### Step 2. Roth IRA - Max it out ($6,000/year)!
 
 Next, it is time to start maxing out your Roth Investment Retirement Account, or Roth IRA.  
 
@@ -79,7 +79,7 @@ Once you pick an investment company, open a new account and request to open a Ro
 
 --------------
 
-### 3. Roth Thrift Savings Plan (Roth TSP) or Roth 401K - Increase until you are investing (at least) 15% of your total income
+### Step 3. Roth Thrift Savings Plan (Roth TSP) or Roth 401K - Increase until you are investing (at least) 15% of your total income
 
 Next, I recommend investing in the Roth Thrift Savings Plan (Roth TSP).  
 
@@ -98,7 +98,7 @@ For those who cannot invest in TSP - like retirees and veterans - you'll want to
 
 -------------
 
-### 4. Choose Your Own Adventure - Depending on your goals, pick your next step:
+### Step 4. Choose Your Own Adventure - Depending on your goals, pick your next step:
 
 Remember when we talked about goals?  This is where it matters.  Once you are investing enough for retirement (at least 15% of your income), your next step is to pick what you value more.  Here are some of your next options:
 
