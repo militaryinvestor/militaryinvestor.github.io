@@ -2,6 +2,7 @@
 name: "Military Investor"
 title: "Investing Education Specifically for Military Members and Veterans"
 description: "How to Invest: Military Edition"
+company: "Military Investor LLC"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: ''

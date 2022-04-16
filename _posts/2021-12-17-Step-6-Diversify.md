@@ -55,7 +55,16 @@ In this distribution, my allocations are largely the same. The main differences 
 
 --------------
 
-#### Step 6A: Bonds
+#### Step 6A: Total Stock Market Index Funds:
+Like I stated in "[Step 4. Buy Investments](https://www.militaryinvestor.org/Step-4-Buy-Investments/)", the majority of your investments should be in no-load, low-fee total market index funds.  In a world where the majority of active fund managers fail to match the returns of these passively managed funds, total market index funds are usually a better bet than picking individual stocks.
+
+There are a number of ETFs and index mutual funds that meet this criteria. Here are a few that I’ve found:
+- [VTI](https://investor.vanguard.com/etf/profile/fees/vti) – Vanguard’s total market index ETF. It charges 0.03%/year in fees, with no load. Vanguard is also the company that created index funds, so they have a solid reputation in this space.
+- [VTSAX](https://investor.vanguard.com/mutual-funds/profile/vtsax) – Vanguard’s Total Stock Market Index Fund Admiral Shares. Charges 0.04%/year in fees, with no load. This is a mutual fund vs. an ETF.
+- [SWTSX](https://www.schwab.com/research/mutual-funds/quotes/fees/swtsx) – Schwab’s Total Stock Market Index mutual fund. It charges 0.03%/year in fees with no load.
+
+
+#### Step 6B: Bonds
 The standard hedge against the volatility of stocks are bonds. These are loans to the federal, state, or local/municipal governments, or to companies, that pay dividends back to the holders of these loans. They have different payback periods,
 and the longer the loan period, the larger the return.
 
@@ -66,7 +75,7 @@ Here are some examples (though, do your own research):
 - [BND](https://investor.vanguard.com/etf/profile/BND) – Vanguard Total Bond Market ETF
 - [SWAGX](https://www.morningstar.com/funds/xnas/swagx/quote) – Schwab U.S. Aggregate Bond Market Fund
 
-#### Step 6B: Other Investment Types
+#### Step 6C: Other Investment Types
 
 There are lots of other ways to diversify your holdings beyond just paper assets like stocks and bonds.
 
