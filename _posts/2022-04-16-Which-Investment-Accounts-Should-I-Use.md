@@ -16,18 +16,18 @@ When you are first starting out, it can be confusing to learn about all of the d
 
 In this article, I hope to give a prioritized list of which investment accounts to use first (based on how they benefit most military investors).
 
-> Note: The decision of types of investment accounts to use should be based on more that just reading one blog post.  However, hopefully this article will give you a little more knowledge and an place to start your own research.
+> Note: The decision of types of investment accounts to use should be based on more that just reading one blog post.  However, hopefully this article will give you a little more knowledge and a place to start your own research.
 
 ---------
 
 #### Start with Goals In Mind (but Prioritize Your Retirement)
 
-With financial planning, always start with the goal in mind.  However, [almost everyone needs to invest more for retirement than they think they do](https://www.militaryinvestor.org/How-Much-Do-You-Need-To-Retire/).  However, beyond retirement, you should also consider whether you might need money to...
+With financial planning, always start with the goal in mind.  However, [almost everyone needs to invest more for retirement than they think they do](https://www.militaryinvestor.org/How-Much-Do-You-Need-To-Retire/).  Beyond retirement, you should also consider whether you might need money to...
 - Buy a new house
 - Pay for (some/all) of your kids' college
 - Support your parents (because they didn't invest for retirement)
 
-Though you should consider these goals, make sure that you start by investing in your own retirement first.  Why?  It's like putting on the air mask on a plane first.  If you don't help yourself, you can't help others.  And, if you don't, you may find yourself becoming a burden on your kids in the future.
+Though you should consider these goals, make sure that you start by investing in your own retirement first.  Why?  It's like putting on your air mask on a plane first.  If you don't help yourself, you can't help others.  Also, if you don't, you may find yourself becoming a burden on your kids in the future.
 
 By putting your investment dollars into the right types of investing accounts, you can give yourself a little flexibility while still getting the benefits of using tax-advantaged retirement accounts like TSP and IRAs.
 
@@ -35,7 +35,7 @@ By putting your investment dollars into the right types of investing accounts, y
 
 ## Investment Account Types (in order):
 
-Because you want to invest in your retirement first (but want to have flexibility to future unknown costs/needs), these are the types of investment accounts I'd recommend investing in:
+Because you want to invest in your retirement first (but want the flexibility to handle future unknown costs/needs), these are the types of investment accounts I'd recommend investing in:
 
 ### Step 1. Roth Thrift Savings Plan (if you are enrolled in BRS retirement) - Enough to get Match
 
