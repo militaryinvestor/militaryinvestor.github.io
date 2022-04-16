@@ -16,7 +16,7 @@ When you are first starting out, it can be confusing to learn about all of the d
 
 In this article, I hope to give a prioritized list of which investment accounts to use first (based on how they benefit most military investors).
 
-> Note: The decision of types of investment accounts to use should be based on more that just reading one blog post.  However, hopefully this article will give you a little more knowledge and a place to start your own research.
+> Note: The decision of which types of investment accounts to use should be based on more that just reading one blog post.  However, hopefully this article will give you a little more knowledge and a place to start your own research.
 
 ---------
 
