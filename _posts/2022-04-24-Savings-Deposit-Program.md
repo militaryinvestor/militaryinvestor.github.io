@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-*Bottom Line Up Front (BLUF):* The Savings Deposit Program (SDP) allows deployed military members to get a guaranteed 10% annual return on their deployed pay (up to $10,000 total).  To sign up, contact your deployed finance office.
+*Bottom Line Up Front (BLUF):* The Savings Deposit Program (SDP) allows deployed military members to get a guaranteed 10% annual return on their deployed pay (up to $10,000 total).  
 
 Today, I want to briefly cover a special program for deployed military members (active duty, and guard/reserves on active orders): the Savings Deposit Program (SDP).  This program allows you to invest up to 100% of your monthly pay while deployed and receive a **[guaranteed 10% APR return](https://www.dfas.mil/MilitaryMembers/sdp/#:~:text=SDP%20Interest%20compounds%20monthly%20and,accrue%20interest.)** on your investment.  
 
@@ -37,7 +37,9 @@ The SDP is a benefit.  If you can, use it.
 -------------
 
 ### For More Information:
-If interested, reach out to your deployed finance office.  If you have additional questions, you can call the SDP customer service number at 1-888-332-7411, then option 4, then 3, then 2, and then 1 (as of 20 Apr 2022).
+If interested, reach out to your deployed finance office to sign up for this program.  
+
+If you have additional questions, you can also call the SDP customer service number at 1-888-332-7411, then option 4, then 3, then 2, and then 1 (as of 20 Apr 2022).
 
 For more information about this program, the following resources provide additional details on how SDP works:
 - [(Official) DFAS: DoD Savings Deposit Program](https://www.dfas.mil/MilitaryMembers/sdp/)
