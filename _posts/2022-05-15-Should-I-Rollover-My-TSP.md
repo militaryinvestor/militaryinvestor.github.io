@@ -32,7 +32,7 @@ My wife separated years ago and had a TSP, and we opted to roll over her TSP to 
 
 4. Open an IRA (if transferring from traditional TSP) or Roth IRA (if transferring from Roth TSP)... or both if needed.  _If you don't already have a brokerage, you'll need to find one to start working with.  I'd suggest a low-cost investment company like Schwab, Fidelity, or Vanguard._
 
-5. Submit Paperwork to brokerage to be processed.  Your process may vary, so ensure you follow your 
+5. Sign the paperwork (in front of a notary, like at the bank), and submit Paperwork to brokerage to be processed.  Your process may vary, so ensure you follow your 
 
 6. Wait for your funds to be distributed.  In our case, this is how it was distributed:
 - Traditional TSP balance -> Transferred directly into IRA
