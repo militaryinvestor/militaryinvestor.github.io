@@ -46,8 +46,8 @@ My distribution is nearly the same for my Roth IRA (though, I included a percent
 - 65% in U.S. Total Market Index Funds
 - 15% in International Index Funds
 - 10% in Real Estate Investment Trusts (REITs)
-- 5% in Total Bond Market Fund
-- 5% in Treasury Inflation Protection Securities (TIPS)
+- 10% in Total Bond Market Fund
+- 0% in Treasury Inflation Protection Securities (TIPS)
 
 In this distribution, my allocations are largely the same. The main differences is that I am also purchasing 10% of Real Estate Investment Trusts (REITs). These securities pay dividends from the profits of hundreds of rental properties, or mortgages. I’ve included them because they provide a little more diversity to my portfolio. Finally, I've added an index fund of Treasury Inflation Protected Securities (TIPs) instead of some of my investment in bond index funds. 
 
@@ -62,7 +62,6 @@ There are a number of ETFs and index mutual funds that meet this criteria. Here 
 - [VTI](https://investor.vanguard.com/etf/profile/fees/vti) – Vanguard’s total market index ETF. It charges 0.03%/year in fees, with no load. Vanguard is also the company that created index funds, so they have a solid reputation in this space.
 - [VTSAX](https://investor.vanguard.com/mutual-funds/profile/vtsax) – Vanguard’s Total Stock Market Index Fund Admiral Shares. Charges 0.04%/year in fees, with no load. This is a mutual fund vs. an ETF.
 - [SWTSX](https://www.schwab.com/research/mutual-funds/quotes/fees/swtsx) – Schwab’s Total Stock Market Index mutual fund. It charges 0.03%/year in fees with no load.
-
 
 #### Step 6B: Bonds
 The standard hedge against the volatility of stocks are bonds. These are loans to the federal, state, or local/municipal governments, or to companies, that pay dividends back to the holders of these loans. They have different payback periods,
