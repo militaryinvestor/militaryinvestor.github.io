@@ -43,13 +43,13 @@ My wife separated years ago and had a TSP, and we opted to roll over her TSP to 
 
 ## Reasons to rollover your TSP:
 
-### Transfer: IRAs give you more investing options
+### _Transfer:_ IRAs give you more investing options
 
 One of the biggest benefits of an IRA is that it gives you a _ton_ more investing options than TSP.  The TSP only gives you five funds ([and will eventually charge you a lot of fees to invest in other mutual funds](https://www.militaryinvestor.org/TSP-New-Mutual-Funds/)).  In an IRA, you can buy individual company stocks, index mutual funds, Real Estate Investment Trusts (REITs), etc.  More options creates greater flexibility and more control over your financial future.
 
 ----------
 
-### Transfer: You can rollover funds from TSP to an IRA, and then from your IRA to a Roth IRA
+### _Transfer:_ You can rollover funds from TSP to an IRA, and then from your IRA to a Roth IRA
 
 Most military members - and especially enlisted - are in an extremely low tax bracket.  This is because BAH/BAS pay is not taxed.  Because of this, most military members should be investing in Roth options, either Roth TSP or Roth IRAs.
 
@@ -63,7 +63,7 @@ Also, there are a lot of benefits that Roth IRAs have over either a TSP or Roth 
 
 ----------
 
-### Tramsfer: Roth IRAs give you extra benefits over TSP or Roth TSP
+### _Transfer:_ Roth IRAs give you extra benefits over TSP or Roth TSP
 
 Why is moving your investments into a Roth IRA better than the alternatives?  A Roth IRA gives these benefits:
 
