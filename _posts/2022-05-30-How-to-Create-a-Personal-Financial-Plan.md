@@ -3,8 +3,8 @@ layout: post
 title:  "How to Create a Personal Financial Plan"
 author: ken
 categories: [ Financial Planning ]
-image: assets/images/2022-01-23-How-Do-Tax-Brackets-Work.png
-featured: false
+image: assets/images/2022-05-30-How-to-Create-A-Personal-Financial-Plan.png
+featured: true
 hidden: false
 ---
 
