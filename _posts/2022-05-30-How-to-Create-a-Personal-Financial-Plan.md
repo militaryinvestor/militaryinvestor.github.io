@@ -12,7 +12,7 @@ hidden: false
 
 -------
 
-For the first 80% of my military career, I thoroughly ignored my financial situation.  We put myself in debt, only invested a little in the Thrift Savings Plan each month, and basically plodded along without any goal or aim in mind.  As a result, our family is behind where we needed to be financially.  
+For the first 80% of my military career, I thoroughly ignored my financial situation.  I put myself in debt, only invested a little in the Thrift Savings Plan each month, and basically plodded along without any goal or aim in mind.  As a result, our family is behind where we needed to be financially.  
 
 > "If you aim at nothing you will hit it every time." - Zig Ziglar
 
