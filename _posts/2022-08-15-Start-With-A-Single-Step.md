@@ -32,23 +32,21 @@ Waiting until we know everything is the biggest mistake that we make.  In invest
 
 In my case, I had read a good book that [recommended opening a Roth IRA](https://www.militaryinvestor.org/Which-Investment-Accounts-Should-I-Use/) for investing.  It explained the tax benefits in a simple way, and it made sense why it was a good idea.  This became my first step in learning how to invest on my own.  
 
-I didn't know who to start with, so I chose Schwab (somewhat randomly) and then opened an account.  This wasn't much, but I had taken the first step.  I was in a different place than before I started.  I had an investment account!  
+I didn't know which company to start with, so I chose Schwab (somewhat randomly) and then opened an account.  This wasn't much, but I had taken the first step.  I was in a different place than before I started.  I had an investment account!  
 
 From here, the next step was obvious.  To buy investments, I needed money in my investment account.   I transferred money from my bank account into my Roth IRA.  It was as simple as online banking, and once it was done the next step was obvious: buy my first investment.  
 
-I had read a book, "The Boglehead's Guide to the Three-Fund Portfolio", which told me to invest in a total market index fund, amongst others.  So, I Googled "Schwab total market index fund" and found the ticker symbol for it: [SWTSX](https://www.schwab.com/research/mutual-funds/quotes/fees/swtsx).
+I had read the book, "The Boglehead's Guide to the Three-Fund Portfolio", which told me to invest in a total market index fund, amongst others.  So, I Googled "Schwab total market index fund" and found the ticker symbol for it: [SWTSX](https://www.schwab.com/research/mutual-funds/quotes/fees/swtsx).
 
-I walked through the process and placed my very first order.  (That day, I also learned that it takes 2-3 days to buy shares of an index mutual funds... unlike ETFs or stocks that you can buy almost instantly.  But I digress.)  After 2-3 days later, I had bought shares.  I was an investor!
+I walked through the process and placed my very first order.  (That day I also learned that it takes 2-3 days to buy shares of an index mutual funds... unlike ETFs which you can buy instantly.  But I digress.)  After 2-3 days later, I had bought shares.  I was an investor!
 
-After that, I decided to follow the rest of the Boglehead's Guide and bought the other two types of index funds they recommended (Total international market & bond index funds).  I had 3 types of funds, and had started investing. 
-
-But then, I got stuck.
+After that, I decided to follow the rest of the Boglehead's Guide and bought the other two types of index funds they recommended (total international market & bond index funds).  I had 3 types of funds, and was a Boglehead investor. 
 
 #### When you get stuck, research
 
-For a few months, this was all the investing I knew.  And, there is nothing wrong with this simple strategy.  There are many happy _Boglehead_ investors who swear by this method.  But, I still felt like I didn't have my arms around all of my finances.  I wanted to dig further, so I started to research.
+For a few months, this was all the investing I knew.  There is nothing wrong with this simple strategy.  There are many happy _Boglehead_ investors who swear by this method.  But, I still felt like I didn't have my arms around all of my finances.  I wanted to dig further, so I started to learn more.  My progress was fairly random, but each time I tried to focus on actionable steps I could take to improve my financial situation.
 
-After reading Dave Ramsey's "Total Money Makeover", I understood the importance of creating an emergency fund and paying off our debts.  We paid down all of our debts (except our mortgage), and then had a clear path to concentrate on adding to our investments.
+For example, after reading Dave Ramsey's "Total Money Makeover", I understood the importance of creating an emergency fund and paying off our debts.  We paid down all of our debts (except our mortgage), and then had a clear path to concentrate on adding to our investments.
 
 I also started researching [the impact of fees on your investment returns](https://www.militaryinvestor.org/Aggressively-Cut-Fees-to-Keep-More-of-Your-Profits/).  I found that I was being charged an _outrageous_ ~1%/year for my kids' college savings.  I searched for better 529 plans and rolled over their plans to BrightStart.
 
