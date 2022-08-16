@@ -48,9 +48,9 @@ For a few months, this was all the investing I knew.  There is nothing wrong wit
 
 For example, after reading Dave Ramsey's "Total Money Makeover", I understood the importance of creating an emergency fund and paying off our debts.  We paid down all of our debts (except our mortgage), and then had a clear path to concentrate on adding to our investments.
 
-I also started researching [the impact of fees on your investment returns](https://www.militaryinvestor.org/Aggressively-Cut-Fees-to-Keep-More-of-Your-Profits/).  I found that I was being charged an _outrageous_ ~1%/year for my kids' college savings.  I searched for better 529 plans and rolled over their plans to BrightStart.
+I also started researching [the impact of fees on your investment returns](https://www.militaryinvestor.org/Aggressively-Cut-Fees-to-Keep-More-of-Your-Profits/).  After looking at my USAA 529 college savings plan, I found that I was being charged outrageous fees for my kids' college savings.  I searched for better 529 plans and eventually rolled over their plans to BrightStart's 529.
 
-I also researched how to increase our investments, and found that spouses who do not work can have their own IRA or Roth IRA (sometimes called a [Spousal IRA](https://www.militaryinvestor.org/Spousal-IRA-Married-Couples-Can-Double-IRA-Investments/)).  I opened one for my wife and we started maxing it out.
+I also researched how to increase our investments.  I found that spouses who do not work can have their own IRA or Roth IRA (sometimes called a [Spousal IRA](https://www.militaryinvestor.org/Spousal-IRA-Married-Couples-Can-Double-IRA-Investments/)).  I opened one for my wife and we started maxing it out.
 
 Each of these sparked a single change that improved our family's investing strategy.  One step at a time, we made great strides towards our financial goals.
 
