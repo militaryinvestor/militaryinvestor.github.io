@@ -10,6 +10,8 @@ hidden: false
 
 *Bottom Line Up Front (BLUF):* Transitioning from the military greatly changes your finances.  Taxes will likely increase and life insurance (vs. just VGLI) should be reconsidered.  Finally, have a solid investing plan for after transition, as investing more in TSP won't be an option for most people.
 
+----------
+
 Transitioning from the military can be an overwhelming endeavor.  It certainly has been for me so far.  Beyond the inevitable hunt for a second career (which brings its own uncertainties), there are also many financial concerns that transitioning military members must consider.
 
 ### The Tax Man Cometh
